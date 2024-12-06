@@ -68,7 +68,10 @@ We welcome contributions to refine the method or explore new applications. Pleas
 
 ## License
 
-This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
+Copyright 2024 David Maurice Thornton
+
+This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
 
 ---
 
