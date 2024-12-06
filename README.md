@@ -21,7 +21,7 @@ The name reflects both the technical and symbolic aspects of the method:
 
 ## Getting Started
 
-For the latest instruction and methodology, see the [METHOD](METHOD) file.
+For the latest instructions and methodology, see the [METHOD](METHOD) file.
 
 ## Applications
 
