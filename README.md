@@ -1,53 +1,74 @@
-# Diamond Brew Method
+# Diamond Brew Coffee Extraction Method
 
-Welcome to the official repository for the **Diamond Brew Method**—a unique brewing technique designed to uncover the exceptional potential of coffee, just like a diamond in the rough.
+Diamond Brew is an experimental method for producing a concentrated coffee extract using very fine coffee, controlled water chemistry, elevated temperature in a closed pressurized vessel, agitation, and staged clarification.
 
-## Overview
+The method is being developed by David Maurice Thornton through Sweet Caffeine in Seattle. Its purpose is not simply to make stronger coffee. The working objective is to produce a concentrated base that can preserve recognizable coffee character across dilution and support repeatable service in cafés, mobile operations, tastings, and future packaged formats.
 
-The Diamond Brew Method combines **pressure**, **heat**, and **precision** to create a coffee concentrate that is consistent, fast, and delicious. It’s not just a brewing method—it’s a philosophy. Inspired by the transformative power of coffee, this method represents the culmination of years of experimentation, innovation, and passion for delivering an extraordinary coffee experience.
+> **Development status:** Active research and commercial development. The process has produced repeatable practical results, but its chemistry, extraction yield, storage stability, and food-safety controls have not yet been fully validated by independent laboratory testing.
 
-## Features
+## What makes the method distinct
 
-- **High-Pressure Brewing**: Uses pressure to enhance extraction without over-extraction.
-- **High Temperature**: Brewed at controlled high temperatures to preserve aromatics and flavor.
-- **Optimized Ratios**: Fine-tuned coffee-to-water ratios for different roast profiles.
-- **Freeze Concentration**: Optional post-brew technique to refine flavor concentration.
+Diamond Brew combines several variables that are more often studied separately:
 
-## Why the Name?
+- Turkish-fine or finer coffee particles
+- low water-to-coffee ratios
+- a closed vessel operating near 121 °C
+- pressure sufficient to keep the aqueous phase liquid at that temperature
+- controlled agitation
+- coffee-specific water composition
+- staged removal of particles while retaining selected oils and colloidal material
+- final dilution as part of beverage formulation
 
-The name reflects both the technical and symbolic aspects of the method:
-1. **Technical**: Like the formation of diamonds, the method uses pressure and heat.
-2. **Symbolic**: It represents uncovering potential, bringing out the best in coffee—and in life.
+Pressure is not currently assumed to be the principal extraction mechanism. Its clearest role is enabling a closed, liquid-water extraction environment above the atmospheric boiling point. The relative effects of temperature, pressure, particle size, agitation, residence time, and water chemistry remain open experimental questions.
 
-## Getting Started
+## Current public method envelope
 
-For the latest instructions and methodology, see the [METHOD](METHOD.md) file.
+Current development generally uses:
 
-## Applications
+| Variable | Working range or approach |
+| --- | --- |
+| Grind | Turkish-fine or finer |
+| Coffee-to-water ratio | Approximately 1:3 for darker roasts and 1:4 for lighter roasts |
+| Process temperature | Approximately 121 °C |
+| Hold time | Approximately 5–15 minutes |
+| Agitation | Controlled agitation during processing |
+| Clarification | Coarse cloth filtration followed by paper filtration; freeze-assisted clarification is under study |
+| Typical serving dilution | Commonly around 1:4 to 1:5 concentrate-to-water, adjusted by coffee and application |
 
-- Coffee concentrate for mobile coffee carts or cafes
-- Basis for latte, matcha latte, or specialty drinks
-- Tea concentrate compatibility under exploration
+These values describe the present research envelope, not a universal recipe or validated commercial process. See [METHOD.md](METHOD.md).
 
-## Future Development
+## Evidence standard
 
-This repository will evolve with:
-- Detailed brewing guides
-- Video tutorials
-- Recipes for custom beverages
-- Community contributions and feedback
+Repository claims are separated into four categories:
 
-## Contributing
+1. **Observed** — measured or repeatedly experienced in development.
+2. **Inferred** — consistent with established extraction science but not isolated experimentally here.
+3. **Hypothesized** — a proposed mechanism that generates testable predictions.
+4. **Unknown** — unresolved questions requiring controlled experiments or outside analysis.
 
-We welcome contributions to refine the method or explore new applications. Please submit pull requests or open issues to share your ideas.
+See [Evidence and Limitations](docs/EVIDENCE-AND-LIMITATIONS.md) and the [Scientific Hypothesis](docs/SCIENTIFIC-HYPOTHESIS.md).
 
-## License
+## Repository map
 
-Copyright 2024 David Maurice Thornton
+- [Current Method](METHOD.md)
+- [Current Status](docs/CURRENT-STATUS.md)
+- [Scientific Hypothesis](docs/SCIENTIFIC-HYPOTHESIS.md)
+- [Evidence and Limitations](docs/EVIDENCE-AND-LIMITATIONS.md)
+- [Safety](docs/SAFETY.md)
+- [Experiment Program](experiments/README.md)
+- [Experiment Template](experiments/EXPERIMENT-TEMPLATE.md)
+- [Change Log](CHANGELOG.md)
 
-This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+## Scope boundary
 
+This public repository documents the method's development, scientific model, selected observations, and research questions. It is not the complete commercial production specification. Client formulations, exact water recipes, production geometry, batch economics, shelf-life development, and other competitively sensitive operating details may be maintained separately.
 
----
+## Safety
 
-Transform your coffee experience. Unleash the potential within every bean.
+A pressure cooker, pressure canner, or autoclave can cause severe injury if used incorrectly. Equipment used for food production must be suitable for the intended use and operated according to its manufacturer, applicable food-safety requirements, and local regulators.
+
+The current process should not be interpreted as establishing commercial sterility, shelf stability, or a validated scheduled process. See [Safety](docs/SAFETY.md).
+
+## License status
+
+The repository currently retains its existing license notice while the appropriate licensing approach for a documented physical process, research material, and possible commercial use is reviewed. No change to licensing intent should be inferred from this repository reorganization.
