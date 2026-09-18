@@ -1,6 +1,6 @@
 # Current Status — September 2026
 
-Diamond Brew has advanced from a compact concept description into an operating extraction and service system. The method is used in live beverage service and is being prepared for broader retail and wholesale evaluation.
+Diamond Brew has advanced from a compact concept description into an actively used and researched coffee brewing methodology. Sweet Caffeine uses live beverage service to highlight the method, while retail, wholesale, and collaborative formats provide additional contexts for evaluating it.
 
 ## Relatively stable elements
 
@@ -27,10 +27,12 @@ The following elements recur consistently enough to form the current method enve
 - capsule and membrane filtration;
 - resting and refrigerated storage behavior;
 - small-format and multi-serving packaging;
-- retail and wholesale service models;
+- retail and wholesale applications;
 - analytical and microbial shelf-life testing.
 
-## Commercial boundary
+## Method and applications
+
+Diamond Brew is the brewing methodology. Concentrates, packaged products, café service, wholesale programs, and client-specific formulations are applications of that methodology.
 
 Public documentation will focus on the scientific model, selected observations, method development, and reproducible research practices. Exact client formulations, detailed production SOPs, water recipes, production economics, and unannounced commercial specifications are not necessarily included.
 

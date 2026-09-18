@@ -19,8 +19,13 @@ All notable public documentation changes to the Diamond Brew method will be reco
 
 ### Changed
 
-- defined Diamond Brew as a developing extraction system rather than merely an experiment;
-- clarified that the repository's purpose is provenance, credible documentation, and structured research rather than publication of a complete production manual;
+- defined Diamond Brew as a coffee brewing methodology rather than a product, platform, or business;
+- restored the founding purpose of unlocking the potential within the coffee;
+- clarified that heat has been central to the method from its origin;
+- described development as nonlinear rather than a sequence of discrete stages;
+- clarified that Sweet Caffeine exists to highlight, serve, and refine Diamond Brew;
+- clarified that retail, wholesale, and packaged formats are applications of the method;
+- defined the repository's purpose as provenance, credible documentation, and structured research rather than publication of a complete production manual;
 - reframed the process as elevated-temperature extraction in a closed pressurized vessel;
 - replaced fixed recipe language with a current developmental method envelope;
 - described roast-linked ratios as empirical starting regions rather than rules;

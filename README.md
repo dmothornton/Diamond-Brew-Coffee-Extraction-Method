@@ -1,10 +1,12 @@
 # Diamond Brew Coffee Extraction Method
 
-Diamond Brew is a developing coffee extraction system that produces a concentrated, dilution-ready expression of a coffee using controlled water chemistry, fine grinding, elevated-temperature extraction in a closed pressurized vessel, agitation, and staged clarification.
+Diamond Brew is a developing coffee brewing method that uses controlled water chemistry, fine grinding, elevated-temperature extraction in a closed pressurized vessel, agitation, staged clarification, and intentional dilution.
 
-The method is being developed by David Maurice Thornton through Sweet Caffeine in Seattle. The objective is to create a concentrated base that remains expressive across dilution, allowing the origin, processing, roast, water composition, and final formulation to be treated as controllable parts of one beverage system.
+Like espresso, pour over, or batch brew, Diamond Brew is a methodology—not a particular packaged product. It can be used to produce a concentrated, dilution-ready expression of a coffee, but bottles, service formats, and commercial programs are applications of the method rather than its identity.
 
-> **Development status:** Active research and commercial development. The process has produced repeatable practical results, but its chemistry, extraction yield, storage stability, and food-safety controls have not yet been fully validated by independent laboratory testing.
+The method is being developed by David Maurice Thornton through Sweet Caffeine in Seattle. Its founding purpose is to unlock the potential within a coffee: to reveal an expressive result by treating the coffee, water, thermal process, clarification, and final formulation as interacting parts of the brew.
+
+> **Development status:** Active research and commercial use. The method has produced repeatable practical results, but its chemistry, extraction yield, storage stability, and food-safety controls have not yet been fully validated by independent laboratory testing.
 
 ## What makes the method distinct
 
@@ -19,7 +21,7 @@ Diamond Brew combines several variables that are more often studied separately:
 - staged removal of particles while retaining selected oils and colloidal material
 - final dilution as part of beverage formulation
 
-Pressure is not currently assumed to be the principal extraction mechanism. Its clearest role is enabling a closed, liquid-water extraction environment above the atmospheric boiling point. The relative effects of temperature, pressure, particle size, agitation, residence time, closed-vessel conditions, and water chemistry remain open experimental questions.
+Heat has been central to Diamond Brew from its origin. Pressure is not currently assumed to be the principal extraction mechanism; its clearest role is enabling a closed, liquid-water extraction environment above the atmospheric boiling point. The relative effects of temperature, pressure, particle size, agitation, residence time, closed-vessel conditions, and water chemistry remain open experimental questions.
 
 ## Current public method envelope
 
@@ -62,9 +64,13 @@ See [Evidence and Limitations](docs/EVIDENCE-AND-LIMITATIONS.md) and the [Scient
 
 ## Repository purpose
 
-This repository establishes the provenance of Diamond Brew, defines the developing method, records its scientific model and evidence, and creates a transparent framework for future research and serious collaboration.
+This repository establishes the provenance of Diamond Brew, defines the developing brewing methodology, records its scientific model and evidence, and creates a transparent framework for future research and serious collaboration.
 
 It is not intended to function as the complete production manual. Client formulations, exact water recipes, detailed production geometry, batch economics, full operating procedures, shelf-life development, and other competitively sensitive specifications may be maintained separately.
+
+## Sweet Caffeine
+
+Sweet Caffeine is a business designed to highlight and serve Diamond Brew. It provides a real-world environment in which the method can be experienced, evaluated, and refined. Sweet Caffeine is not synonymous with Diamond Brew, and Diamond Brew is not limited to Sweet Caffeine's products or service formats.
 
 ## Safety
 

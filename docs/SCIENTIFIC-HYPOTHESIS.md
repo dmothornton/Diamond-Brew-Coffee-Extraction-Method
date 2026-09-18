@@ -2,9 +2,9 @@
 
 ## Working model
 
-Diamond Brew likely works through the interaction of rapid mass transfer, elevated-temperature solubility and reaction kinetics, high slurry concentration, controlled water chemistry, mechanical redistribution, closed-vessel conditions, and selective post-brew separation.
+Diamond Brew is a coffee brewing methodology whose results likely arise through the interaction of rapid mass transfer, elevated-temperature solubility and reaction kinetics, high slurry concentration, controlled water chemistry, mechanical redistribution, closed-vessel conditions, and selective post-brew separation.
 
-No single factor currently explains the complete result. The strongest model is multivariable.
+Heat has been central to the method from its origin. No single variable currently explains the complete result; the strongest scientific model is multivariable.
 
 ## Proposed mechanisms
 
@@ -66,7 +66,7 @@ Agitation should reduce stagnant zones and redistribute particles, temperature, 
 
 **Prediction:** Increasing agitation should initially improve repeatability or recovery, then reach a point of diminishing returns or declining clarity.
 
-### 8. Clarification shapes the final sensory system
+### 8. Clarification shapes the final sensory expression
 
 **Hypothesis — moderate confidence**
 
@@ -92,7 +92,7 @@ Refrigerated concentrate sometimes tastes more integrated after rest. Candidate 
 
 ## Competing explanations
 
-Several outcomes attributed to the combined process may be explained more simply:
+Several outcomes attributed to the combined method may be explained more simply:
 
 - the very fine grind may account for most of the speed;
 - elevated temperature may account for most of the extraction;
@@ -104,4 +104,4 @@ The research program should attempt to falsify these simpler explanations before
 
 ## Current conclusion
 
-Diamond Brew is best understood as a controlled extraction-and-formulation system, not as a proven single-mechanism pressure technology. Confidence is highest that particle size, temperature, slurry ratio, water composition, agitation, clarification, dilution, and closed-vessel conditions interact. Confidence is substantially lower regarding the unique contribution of pressure and the mechanisms behind resting.
+Diamond Brew is best understood as a brewing methodology with interconnected extraction, clarification, and formulation stages—not as a proven single-mechanism pressure technology or a particular commercial product. Confidence is highest that particle size, temperature, slurry ratio, water composition, agitation, clarification, dilution, and closed-vessel conditions interact. Confidence is substantially lower regarding the unique contribution of pressure and the mechanisms behind resting.
