@@ -2,7 +2,7 @@
 
 ## Working model
 
-Diamond Brew likely works through the interaction of rapid mass transfer, elevated-temperature solubility and reaction kinetics, high slurry concentration, controlled water chemistry, mechanical redistribution, and selective post-brew separation.
+Diamond Brew likely works through the interaction of rapid mass transfer, elevated-temperature solubility and reaction kinetics, high slurry concentration, controlled water chemistry, mechanical redistribution, closed-vessel conditions, and selective post-brew separation.
 
 No single factor currently explains the complete result. The strongest model is multivariable.
 
@@ -34,7 +34,15 @@ The clearest function of pressure is to suppress boiling and allow liquid water 
 
 **Prediction:** At equal temperature and residence time, modest changes in pressure above that required to maintain the liquid state may have less effect than changes in temperature, particle size, or agitation.
 
-### 4. High slurry concentration changes the extraction path
+### 4. The closed system may change volatile and headspace behavior
+
+**Hypothesis — moderate plausibility, low direct evidence**
+
+The vessel may matter not only because it is pressurized, but because it is closed. A closed system can reduce evaporative loss, change headspace equilibrium, limit some oxygen exposure, and allow condensed material to return to the liquid. At the same time, high temperature may degrade or transform aroma compounds despite reduced escape.
+
+**Prediction:** Coffee processed at comparable temperature and residence time under different degrees of venting or volatile capture should differ in mass loss, aroma intensity, and sensory composition even when pressure is not treated as an independent extraction force.
+
+### 5. High slurry concentration changes the extraction path
 
 **Hypothesis — moderate confidence**
 
@@ -42,7 +50,7 @@ Low water-to-coffee ratios reduce the concentration gradient as extraction proce
 
 **Prediction:** A directly brewed concentrate and a conventionally brewed coffee concentrated to the same solids level should differ in composition and sensory behavior.
 
-### 5. Water composition changes both extraction and perception
+### 6. Water composition changes both extraction and perception
 
 **Inference — high confidence for an effect; lower confidence for the exact mechanism in Diamond Brew**
 
@@ -50,7 +58,7 @@ Dissolved minerals and alkalinity can affect extraction, acid balance, buffering
 
 **Prediction:** Blind comparisons using one coffee and multiple controlled waters should show repeatable differences, but the preferred profile may not generalize across coffees.
 
-### 6. Agitation improves uniformity but may increase fines transfer
+### 7. Agitation improves uniformity but may increase fines transfer
 
 **Hypothesis — moderate confidence**
 
@@ -58,7 +66,7 @@ Agitation should reduce stagnant zones and redistribute particles, temperature, 
 
 **Prediction:** Increasing agitation should initially improve repeatability or recovery, then reach a point of diminishing returns or declining clarity.
 
-### 7. Clarification shapes the final sensory system
+### 8. Clarification shapes the final sensory system
 
 **Hypothesis — moderate confidence**
 
@@ -66,7 +74,7 @@ Cloth, paper, freezing, and membrane steps remove different particle and colloid
 
 **Prediction:** Samples matched for dissolved-solids concentration but clarified by different methods should differ in turbidity, texture, aroma release, and perceived flavor separation.
 
-### 8. Dilution can reveal clarity
+### 9. Dilution can reveal clarity
 
 **Observation plus hypothesis — low-to-moderate confidence**
 
@@ -74,7 +82,7 @@ Development tastings suggest that some concentrates become more articulate at hi
 
 **Prediction:** Blind dilution series should produce a coffee-specific optimum rather than a monotonic preference for the strongest serving.
 
-### 9. Resting changes integration
+### 10. Resting changes integration
 
 **Observation with unresolved mechanism — low confidence**
 
@@ -88,7 +96,7 @@ Several outcomes attributed to the combined process may be explained more simply
 
 - the very fine grind may account for most of the speed;
 - elevated temperature may account for most of the extraction;
-- the closed vessel may mainly reduce evaporative loss;
+- the closed vessel may mainly reduce evaporative loss or alter volatile redistribution;
 - water chemistry and dilution may account for much of the perceived clarity;
 - filtration and settling may explain changes mistakenly attributed to brewing pressure.
 
@@ -96,4 +104,4 @@ The research program should attempt to falsify these simpler explanations before
 
 ## Current conclusion
 
-Diamond Brew is best understood as a controlled extraction-and-formulation system, not as a proven single-mechanism pressure technology. Confidence is highest that particle size, temperature, slurry ratio, water composition, agitation, clarification, and dilution interact. Confidence is substantially lower regarding the unique contribution of pressure and the mechanisms behind resting.
+Diamond Brew is best understood as a controlled extraction-and-formulation system, not as a proven single-mechanism pressure technology. Confidence is highest that particle size, temperature, slurry ratio, water composition, agitation, clarification, dilution, and closed-vessel conditions interact. Confidence is substantially lower regarding the unique contribution of pressure and the mechanisms behind resting.

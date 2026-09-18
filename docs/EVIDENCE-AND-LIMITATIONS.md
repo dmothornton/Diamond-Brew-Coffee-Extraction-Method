@@ -17,7 +17,20 @@ This register prevents practical observations, scientific interpretations, and c
 | A measured °Brix value represents extraction yield | Unsupported shortcut | Low | Coffee-specific refractometry method and mass balance |
 | The process produces a shelf-stable concentrate | Not established | Very low | Validated formulation, process authority review, challenge/shelf-life testing |
 | Processing at 121 °C makes every package commercially sterile | Not established | Very low | Validated scheduled process in the final package and production system |
-| Refrigerated sensory stability establishes microbial safety | False inference | High confidence that the inference is invalid | Separate microbial and quality testing |
+| Refrigerated sensory stability establishes microbial safety | Unsupported inference | High confidence that the inference is invalid | Separate microbial and quality testing |
+
+## Evidence traceability
+
+As the experiment record grows, claims should link to one or more evidence sources:
+
+- experiment or batch identifiers;
+- instrument records;
+- blind sensory trials;
+- repeated service observations;
+- external primary literature;
+- qualified laboratory or process-authority findings.
+
+The strength of a claim should be revised when new evidence supports, limits, or contradicts it.
 
 ## Measurement cautions
 

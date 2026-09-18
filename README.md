@@ -1,8 +1,8 @@
 # Diamond Brew Coffee Extraction Method
 
-Diamond Brew is an experimental method for producing a concentrated coffee extract using very fine coffee, controlled water chemistry, elevated temperature in a closed pressurized vessel, agitation, and staged clarification.
+Diamond Brew is a developing coffee extraction system that produces a concentrated, dilution-ready expression of a coffee using controlled water chemistry, fine grinding, elevated-temperature extraction in a closed pressurized vessel, agitation, and staged clarification.
 
-The method is being developed by David Maurice Thornton through Sweet Caffeine in Seattle. Its purpose is not simply to make stronger coffee. The working objective is to produce a concentrated base that can preserve recognizable coffee character across dilution and support repeatable service in cafés, mobile operations, tastings, and future packaged formats.
+The method is being developed by David Maurice Thornton through Sweet Caffeine in Seattle. The objective is to create a concentrated base that remains expressive across dilution, allowing the origin, processing, roast, water composition, and final formulation to be treated as controllable parts of one beverage system.
 
 > **Development status:** Active research and commercial development. The process has produced repeatable practical results, but its chemistry, extraction yield, storage stability, and food-safety controls have not yet been fully validated by independent laboratory testing.
 
@@ -19,7 +19,7 @@ Diamond Brew combines several variables that are more often studied separately:
 - staged removal of particles while retaining selected oils and colloidal material
 - final dilution as part of beverage formulation
 
-Pressure is not currently assumed to be the principal extraction mechanism. Its clearest role is enabling a closed, liquid-water extraction environment above the atmospheric boiling point. The relative effects of temperature, pressure, particle size, agitation, residence time, and water chemistry remain open experimental questions.
+Pressure is not currently assumed to be the principal extraction mechanism. Its clearest role is enabling a closed, liquid-water extraction environment above the atmospheric boiling point. The relative effects of temperature, pressure, particle size, agitation, residence time, closed-vessel conditions, and water chemistry remain open experimental questions.
 
 ## Current public method envelope
 
@@ -28,7 +28,7 @@ Current development generally uses:
 | Variable | Working range or approach |
 | --- | --- |
 | Grind | Turkish-fine or finer |
-| Coffee-to-water ratio | Approximately 1:3 for darker roasts and 1:4 for lighter roasts |
+| Coffee-to-water ratio | Development often begins near 1:3 for more developed roasts and 1:4 for lighter roasts |
 | Process temperature | Approximately 121 °C |
 | Hold time | Approximately 5–15 minutes |
 | Agitation | Controlled agitation during processing |
@@ -51,6 +51,7 @@ See [Evidence and Limitations](docs/EVIDENCE-AND-LIMITATIONS.md) and the [Scient
 ## Repository map
 
 - [Current Method](METHOD.md)
+- [Development History](docs/DEVELOPMENT-HISTORY.md)
 - [Current Status](docs/CURRENT-STATUS.md)
 - [Scientific Hypothesis](docs/SCIENTIFIC-HYPOTHESIS.md)
 - [Evidence and Limitations](docs/EVIDENCE-AND-LIMITATIONS.md)
@@ -59,9 +60,11 @@ See [Evidence and Limitations](docs/EVIDENCE-AND-LIMITATIONS.md) and the [Scient
 - [Experiment Template](experiments/EXPERIMENT-TEMPLATE.md)
 - [Change Log](CHANGELOG.md)
 
-## Scope boundary
+## Repository purpose
 
-This public repository documents the method's development, scientific model, selected observations, and research questions. It is not the complete commercial production specification. Client formulations, exact water recipes, production geometry, batch economics, shelf-life development, and other competitively sensitive operating details may be maintained separately.
+This repository establishes the provenance of Diamond Brew, defines the developing method, records its scientific model and evidence, and creates a transparent framework for future research and serious collaboration.
+
+It is not intended to function as the complete production manual. Client formulations, exact water recipes, detailed production geometry, batch economics, full operating procedures, shelf-life development, and other competitively sensitive specifications may be maintained separately.
 
 ## Safety
 

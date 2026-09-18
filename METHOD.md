@@ -30,12 +30,12 @@ The importance of the complete particle-size distribution, rather than nominal g
 
 ## 3. Brew ratio
 
-Typical starting points are:
+Development has often begun near:
 
-- darker or more developed roasts: approximately 1:3 coffee-to-water by mass;
-- lighter roasts: approximately 1:4 coffee-to-water by mass.
+- 1:3 coffee-to-water by mass for more developed roasts;
+- 1:4 coffee-to-water by mass for lighter roasts.
 
-These are empirical starting regions, not fixed rules. Coffee solubility, roast development, desired concentration, vessel geometry, and water chemistry can justify other ratios.
+These are empirical starting regions rather than roast-based rules. Roast development may be acting as a proxy for solubility, bean structure, flavor intensity, degradation sensitivity, filtration behavior, or the desired serving concentration.
 
 ## 4. Thermal-pressure processing
 
@@ -45,7 +45,7 @@ The process is better described as **elevated-temperature extraction in a closed
 
 ## 5. Agitation
 
-Controlled agitation is used to redistribute the dense coffee-water slurry and reduce local extraction differences. Current practice may include approximately 10 minutes of agitation, but agitation timing and intensity have not yet been optimized through controlled trials.
+Controlled agitation may be applied during processing to redistribute the dense coffee-water slurry and reduce local extraction differences. Timing and intensity remain active development variables.
 
 ## 6. Cooling and separation
 
@@ -71,7 +71,21 @@ Final dilution is part of the method rather than an afterthought. Development se
 
 Greater dilution has sometimes produced improved clarity even when the concentrate initially appeared very strong. This is an observation requiring structured sensory testing.
 
-## 9. Measurements under development
+## 9. Dialing-in framework
+
+A public description of the development sequence is:
+
+1. Choose an initial brew ratio based on the coffee and intended application.
+2. Choose a starting water profile from the current profile families.
+3. Process a reference sample under a documented standard condition.
+4. Evaluate the concentrate at multiple controlled dilutions.
+5. Identify the principal failure mode or opportunity—for example muted origin character, excessive roast emphasis, weak structure, muddled flavor separation, or filtration loss.
+6. Adjust one primary variable, such as water profile, ratio, hold time, agitation, clarification, or serving dilution.
+7. Repeat using traceable batch and sample identifiers.
+
+This framework describes the logic of development without prescribing a universal formulation.
+
+## 10. Measurements under development
 
 Useful batch measurements include:
 
