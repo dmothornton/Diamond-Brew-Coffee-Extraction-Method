@@ -3,7 +3,15 @@
 **Status:** Developmental  
 **Last revised:** September 2026
 
-This document describes the present public process envelope for Diamond Brew. It is not a validated food-manufacturing process, a universal recipe, or the complete commercial production specification.
+This document defines the present open method envelope for Diamond Brew. It is not a validated food-manufacturing process or a universal recipe. Published experiments should provide enough detail for independent repetition.
+
+## Defining criterion
+
+Diamond Brew is direct extraction of ground coffee in water at **nominally 121 °C**, under sufficient pressure to support the aqueous brewing environment at that temperature.
+
+The temperature applies during extraction—not merely to later heat treatment of an already brewed beverage. Pressure is an enabling condition rather than the method's defining identity. Grind, ratio, water composition, hold time, agitation, vessel geometry, clarification, concentration, and serving dilution are variables within the method.
+
+“Nominally 121 °C” acknowledges measurement location, thermal lag, instrument uncertainty, and equipment tolerance. Reports should state the actual measured temperature, sensor location, uncertainty where known, and the rule used to determine when the hold begins. No evidence currently establishes 121 °C as a discontinuous physical threshold or defines a validated lower boundary for the method.
 
 ## 1. Inputs
 
@@ -15,7 +23,7 @@ Diamond Brew has been developed across multiple roast levels and origins. Coffee
 
 Water chemistry is treated as an active formulation variable. Current development uses several profile families—Balance, Delicate, High Aroma, and Expressive—to explore how mineral composition changes extraction and sensory expression.
 
-Exact formulations are outside the current public specification. The profile names describe development tools, not standardized industry water specifications.
+The profile names describe development tools, not standardized industry water specifications. Every published experiment must report the actual water composition or a reproducible preparation recipe; a profile name alone is insufficient.
 
 ## 2. Particle preparation
 
@@ -85,7 +93,26 @@ A public description of the development sequence is:
 
 This framework describes the logic of development without prescribing a universal formulation.
 
-## 10. Measurements under development
+## 10. Reproducibility standard
+
+A published Diamond Brew experiment should report, at minimum:
+
+- coffee identity, roast information, and elapsed time from roast where available;
+- coffee and water masses;
+- water composition or complete preparation recipe;
+- grinder, setting, and particle-size characterization where available;
+- brewing and sample-container model, geometry, fill, closure, and position;
+- temperature measurement, sensor location, come-up time, hold-start rule, hold time, and cooling history;
+- pressure measurement or equipment operating condition;
+- agitation timing and method;
+- separation and clarification materials and sequence;
+- recovered mass, sample preparation, dilution, and analytical methods;
+- randomized sensory procedure and raw responses where sensory claims are made;
+- deviations, failed runs, and excluded observations with reasons.
+
+A named Sweet Caffeine water profile or undocumented equipment setting is not sufficient for independent repetition.
+
+## 11. Measurements under development
 
 Useful batch measurements include:
 

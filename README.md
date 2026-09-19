@@ -1,6 +1,6 @@
 # Diamond Brew Coffee Extraction Method
 
-Diamond Brew is a developing coffee brewing method that uses controlled water chemistry, fine grinding, elevated-temperature extraction in a closed pressurized vessel, agitation, staged clarification, and intentional dilution.
+Diamond Brew is a developing coffee brewing method defined by direct extraction of ground coffee in water at nominally 121 °C. Pressure enables the aqueous brewing environment at that temperature; it is not presently treated as the defining mechanism.
 
 Like espresso, pour over, or batch brew, Diamond Brew is a methodology—not a particular packaged product. It can be used to produce a concentrated, dilution-ready expression of a coffee, but bottles, service formats, and commercial programs are applications of the method rather than its identity.
 
@@ -10,7 +10,7 @@ The method is being developed by David Maurice Thornton through Sweet Caffeine i
 
 ## What makes the method distinct
 
-Diamond Brew combines several variables that are more often studied separately:
+The defining condition is direct coffee-water extraction at nominally 121 °C. The present implementation combines that condition with several variables that are more often studied separately:
 
 - Turkish-fine or finer coffee particles
 - low water-to-coffee ratios
@@ -21,7 +21,7 @@ Diamond Brew combines several variables that are more often studied separately:
 - staged removal of particles while retaining selected oils and colloidal material
 - final dilution as part of beverage formulation
 
-Heat has been central to Diamond Brew from its origin. Pressure is not currently assumed to be the principal extraction mechanism; its clearest role is enabling a closed, liquid-water extraction environment above the atmospheric boiling point. The relative effects of temperature, pressure, particle size, agitation, residence time, closed-vessel conditions, and water chemistry remain open experimental questions.
+Heat has been central to Diamond Brew from its origin. Pressure is not currently assumed to be the principal extraction mechanism; its clearest role is enabling extraction at the defining temperature. The approximately 121 °C target is a method definition and current operating condition—not yet a demonstrated scientific threshold. The relative effects of temperature, pressure, particle size, agitation, residence time, closed-vessel conditions, and water chemistry remain open experimental questions.
 
 ## Current public method envelope
 
@@ -59,6 +59,7 @@ See [Evidence and Limitations](docs/EVIDENCE-AND-LIMITATIONS.md), the [Scientifi
 - [Evidence and Limitations](docs/EVIDENCE-AND-LIMITATIONS.md)
 - [Scientific Bibliography](references/BIBLIOGRAPHY.md)
 - [Research Roadmap](research/RESEARCH-ROADMAP.md)
+- [P0 Temperature-Response Protocol](research/P0-TEMPERATURE-RESPONSE.md)
 - [Experiment Program](experiments/README.md)
 - [Experiment Template](experiments/EXPERIMENT-TEMPLATE.md)
 - [Safety](docs/SAFETY.md)
@@ -66,9 +67,9 @@ See [Evidence and Limitations](docs/EVIDENCE-AND-LIMITATIONS.md), the [Scientifi
 
 ## Repository purpose
 
-This repository establishes the provenance of Diamond Brew, defines the developing brewing methodology, records its scientific model and evidence, and creates a transparent framework for future research and serious collaboration.
+This repository establishes the provenance of Diamond Brew, defines the developing brewing methodology, records its scientific model and evidence, and creates a transparent framework for reproducible research and serious collaboration.
 
-It is not intended to function as the complete production manual. Client formulations, exact water recipes, detailed production geometry, batch economics, full operating procedures, shelf-life development, and other competitively sensitive specifications may be maintained separately.
+Published Diamond Brew experiments should disclose enough information for an independent investigator to repeat the tested procedure, including the actual water composition, coffee, ratio, grind characterization, vessel and sample geometry, measured temperature, hold definition, agitation, cooling, separation, dilution, and measurement methods. Reproducibility does not require every commercial workflow or client formulation to be identical.
 
 ## Sweet Caffeine
 

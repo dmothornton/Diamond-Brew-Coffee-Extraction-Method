@@ -17,6 +17,7 @@ This is a development research program, not a substitute for an accredited labor
 
 | Priority | Research question | Explanatory power | Feasibility | Immediate decision value |
 | --- | --- | --- | --- | --- |
+| P0 | How does extraction behavior change as temperature approaches 121 °C? | Very high | Low-to-moderate with current equipment | Foundational |
 | P1 | How does hold time near 121 °C affect recovery and sensory character? | High | High | High |
 | P2 | Does preferred dilution form a coffee-specific optimum? | High | Very high | Very high |
 | P3 | Does controlled agitation materially change recovery, repeatability, or clarification? | Moderate-to-high | High | High |
@@ -28,13 +29,32 @@ This is a development research program, not a substitute for an accredited labor
 | P9 | What is the independent contribution of pressure or closed-vessel volatile capture? | Very high | Low with current equipment | Potentially high |
 | P10 | What chemical and microbial controls determine safe shelf life? | Essential for packaged commercialization | Requires qualified outside resources | Essential |
 
-## First research cycle
+## Research sequence
 
-The first cycle should run P1, P2, and P3. Together they address three controllable parts of the method—thermal exposure, final dilution, and agitation—using equipment already in service.
+P0 is the foundational scientific experiment because temperature defines Diamond Brew, but it requires suitable temperature-controlled pressure equipment and direct temperature measurement. P2 can be run immediately with existing concentrate. P1 and P3 can follow during normal production. Priority therefore distinguishes explanatory importance from operational sequence.
+
+## P0 — Temperature response
+
+See [P0-TEMPERATURE-RESPONSE.md](P0-TEMPERATURE-RESPONSE.md).
+
+**Question:** Do extraction and sensory behavior change continuously across the high-temperature region, or is there evidence of a transition near 121 °C?
+
+**Competing models:**
+
+- temperature produces a largely continuous acceleration or transformation;
+- a practically important nonlinear region occurs near the current target;
+- apparent temperature effects are primarily differences in time, pressure, evaporation, or equipment;
+- 121 °C is useful as a reproducible method convention without being a natural threshold.
+
+**Decision:** Retain nominal 121 °C as the current defining condition while accumulating evidence about the useful operating boundary. Do not broaden the definition based on a single experiment.
+
+## First operational research cycle
+
+The first operational cycle should run P2, then P1 and P3. Together they address final dilution, thermal exposure, and agitation using equipment already in service.
 
 ### Common controls
 
-For all three protocols:
+For P1, P2, and P3:
 
 - use one coffee lot and roast batch;
 - use one water batch or documented water recipe;

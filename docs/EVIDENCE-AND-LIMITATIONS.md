@@ -12,6 +12,8 @@ This register prevents practical observations, scientific interpretations, and c
 | Dilution near 1:4–1:5 is often useful | Empirical observation | Moderate | Structured dilution curves by coffee |
 | Greater dilution can improve perceived clarity | Observation | Low-to-moderate | Blinded sensory panels |
 | Resting can improve perceived integration | Observation | Low | Time-series controls and analytical measurements |
+| Nominal 121 °C defines the current Diamond Brew method | Method convention grounded in development history | High | Community adoption and stable specification |
+| 121 °C is a scientifically demonstrated extraction threshold | Not established | Very low | Controlled temperature-response experiments with direct measurement |
 | Pressure itself materially improves extraction | Hypothesis | Low | Equal-temperature pressure-control experiment |
 | Approximate extraction yield is around 10% | Preliminary estimate | Low | Standardized TDS and retained-liquid accounting |
 | A measured °Brix value represents extraction yield | Unsupported shortcut | Low | Coffee-specific refractometry method and mass balance |
@@ -50,7 +52,7 @@ pH and water activity answer different questions. Neither should be treated as a
 
 - Most sensory findings arise from development practice rather than blinded replicated trials.
 - Roast level and coffee identity are often changed alongside other variables.
-- Vessel geometry, batch size, agitation, and cooling may be confounded.
+- Vessel geometry, batch size, agitation, cooling, pressure, and actual slurry temperature may be confounded.
 - Current instruments may be insufficient for precise compositional claims.
 - Aroma retention, degradation, and transformation have not been chemically characterized.
 - Shelf-life goals have not yet been validated.
