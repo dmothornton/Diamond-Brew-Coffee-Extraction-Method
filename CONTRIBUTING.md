@@ -40,7 +40,7 @@ Attribution for substantial contributions should be preserved through repository
 
 ## Method name and endorsement
 
-Contributors may accurately refer to the Diamond Brew method. A contribution, pull request, or merged result does not create certification, commercial affiliation, or endorsement by David Maurice Thornton or Sweet Caffeine.
+Contributors may accurately refer to the Diamond Brew method. A contribution, pull request, or merged result does not create certification, commercial affiliation, or endorsement by Dave Thornton or Sweet Caffeine.
 
 See [TRADEMARKS.md](TRADEMARKS.md).
 

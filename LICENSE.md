@@ -1,6 +1,6 @@
 # Creative Commons Attribution 4.0 International
 
-Except where otherwise identified, the original copyrightable material in this repository is licensed by **David Maurice Thornton** under the **Creative Commons Attribution 4.0 International Public License (CC BY 4.0)**.
+Except where otherwise identified, the original copyrightable material in this repository is licensed by **Dave Thornton** under the **Creative Commons Attribution 4.0 International Public License (CC BY 4.0)**.
 
 Canonical license:
 
@@ -18,7 +18,7 @@ Subject to the license terms, you may share and adapt the licensed material for 
 
 ## Attribution
 
-When sharing this material or an adaptation, provide appropriate credit to David Maurice Thornton, link to this repository and the CC BY 4.0 license, and indicate whether changes were made. Attribution must not imply sponsorship, certification, endorsement, or official status.
+When sharing this material or an adaptation, provide appropriate credit to Dave Thornton, link to this repository and the CC BY 4.0 license, and indicate whether changes were made. Attribution must not imply sponsorship, certification, endorsement, or official status.
 
 A suggested citation is provided in [CITATION.cff](CITATION.cff).
 

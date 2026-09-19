@@ -21,7 +21,7 @@ The CC BY 4.0 license does not grant rights to:
 
 - the Sweet Caffeine name or logos;
 - any Diamond Brew or Sweet Caffeine logo, trade dress, package design, or other source-identifying artwork unless separately licensed;
-- represent that a person, product, business, experiment, or process is certified, approved, sponsored, or endorsed by David Maurice Thornton or Sweet Caffeine;
+- represent that a person, product, business, experiment, or process is certified, approved, sponsored, or endorsed by Dave Thornton or Sweet Caffeine;
 - represent an independent product as originating from Sweet Caffeine.
 
 Attribution required by CC BY 4.0 identifies the source of reused repository material. Attribution is not an endorsement.

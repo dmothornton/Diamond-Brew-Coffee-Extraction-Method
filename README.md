@@ -4,7 +4,7 @@ Diamond Brew is a developing coffee brewing method defined by direct extraction 
 
 Like espresso, pour over, or batch brew, Diamond Brew is a methodology—not a particular packaged product. It can be used to produce a concentrated, dilution-ready expression of a coffee, but bottles, service formats, and commercial programs are applications of the method rather than its identity.
 
-The method is being developed by David Maurice Thornton through Sweet Caffeine in Seattle. Its founding purpose is to unlock the potential within a coffee: to reveal an expressive result by treating the coffee, water, thermal process, clarification, and final formulation as interacting parts of the brew.
+The method is being developed by Dave Thornton through Sweet Caffeine in Seattle. Its founding purpose is to unlock the potential within a coffee: to reveal an expressive result by treating the coffee, water, thermal process, clarification, and final formulation as interacting parts of the brew.
 
 > **Development status:** Active research and commercial use. The method has produced repeatable practical results, but its chemistry, extraction yield, storage stability, and food-safety controls have not yet been fully validated by independent laboratory testing.
 
@@ -87,6 +87,6 @@ Except where otherwise identified, the original documentation, protocols, diagra
 
 You may copy, adapt, publish, and use the licensed material, including commercially, provided that you give appropriate credit, link to the license, and identify changes. Suggested attribution appears in [CITATION.cff](CITATION.cff).
 
-Copyright protects the repository's original expression, not the underlying brewing procedure, facts, ideas, or methods. The license does not establish that 121 °C is a scientifically proven threshold, certify a user's process, or imply endorsement by David Maurice Thornton or Sweet Caffeine.
+Copyright protects the repository's original expression, not the underlying brewing procedure, facts, ideas, or methods. The license does not establish that 121 °C is a scientifically proven threshold, certify a user's process, or imply endorsement by Dave Thornton or Sweet Caffeine.
 
 Accurate descriptive reference to the Diamond Brew method is permitted. Sweet Caffeine names, logos, and source-identifying branding are not licensed. See [TRADEMARKS.md](TRADEMARKS.md) and [CONTRIBUTING.md](CONTRIBUTING.md).

@@ -3,7 +3,7 @@ message: "If you use or adapt this repository, please cite it using the metadata
 title: "Diamond Brew Coffee Extraction Method"
 authors:
   - family-names: "Thornton"
-    given-names: "David Maurice"
+    given-names: "Dave"
 repository-code: "https://github.com/dmothornton/Diamond-Brew-Coffee-Extraction-Method"
 url: "https://github.com/dmothornton/Diamond-Brew-Coffee-Extraction-Method"
 license: "CC-BY-4.0"
