@@ -48,7 +48,7 @@ Repository claims are separated into four categories:
 3. **Hypothesized** — a proposed mechanism that generates testable predictions.
 4. **Unknown** — unresolved questions requiring controlled experiments or outside analysis.
 
-See [Evidence and Limitations](docs/EVIDENCE-AND-LIMITATIONS.md) and the [Scientific Hypothesis](docs/SCIENTIFIC-HYPOTHESIS.md).
+See [Evidence and Limitations](docs/EVIDENCE-AND-LIMITATIONS.md), the [Scientific Hypothesis](docs/SCIENTIFIC-HYPOTHESIS.md), and the [Scientific Bibliography](references/BIBLIOGRAPHY.md).
 
 ## Repository map
 
@@ -57,6 +57,7 @@ See [Evidence and Limitations](docs/EVIDENCE-AND-LIMITATIONS.md) and the [Scient
 - [Current Status](docs/CURRENT-STATUS.md)
 - [Scientific Hypothesis](docs/SCIENTIFIC-HYPOTHESIS.md)
 - [Evidence and Limitations](docs/EVIDENCE-AND-LIMITATIONS.md)
+- [Scientific Bibliography](references/BIBLIOGRAPHY.md)
 - [Safety](docs/SAFETY.md)
 - [Experiment Program](experiments/README.md)
 - [Experiment Template](experiments/EXPERIMENT-TEMPLATE.md)
