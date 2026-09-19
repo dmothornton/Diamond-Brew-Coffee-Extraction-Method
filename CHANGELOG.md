@@ -13,6 +13,9 @@ All notable public documentation changes to the Diamond Brew method will be reco
 - initial primary-research bibliography with explicit applicability limits;
 - inline scientific citations;
 - evidence gaps for Diamond Brew-specific conditions;
+- prioritized research roadmap;
+- first-cycle protocols for hold time, dilution, and agitation;
+- evidence thresholds for internal and external claims;
 - closed-system and headspace hypothesis;
 - evidence and limitations register with a traceability framework;
 - pressure, food-contact, and shelf-stability safety boundaries;

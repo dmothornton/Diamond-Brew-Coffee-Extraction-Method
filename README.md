@@ -58,9 +58,10 @@ See [Evidence and Limitations](docs/EVIDENCE-AND-LIMITATIONS.md), the [Scientifi
 - [Scientific Hypothesis](docs/SCIENTIFIC-HYPOTHESIS.md)
 - [Evidence and Limitations](docs/EVIDENCE-AND-LIMITATIONS.md)
 - [Scientific Bibliography](references/BIBLIOGRAPHY.md)
-- [Safety](docs/SAFETY.md)
+- [Research Roadmap](research/RESEARCH-ROADMAP.md)
 - [Experiment Program](experiments/README.md)
 - [Experiment Template](experiments/EXPERIMENT-TEMPLATE.md)
+- [Safety](docs/SAFETY.md)
 - [Change Log](CHANGELOG.md)
 
 ## Repository purpose
