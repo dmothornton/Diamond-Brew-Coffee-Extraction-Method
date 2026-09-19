@@ -1,5 +1,7 @@
 # Creative Commons Attribution 4.0 International
 
+Copyright © 2024–2026 Dave Thornton
+
 Except where otherwise identified, the original copyrightable material in this repository is licensed by **Dave Thornton** under the **Creative Commons Attribution 4.0 International Public License (CC BY 4.0)**.
 
 Canonical license:
@@ -31,6 +33,10 @@ Copyright does not protect the underlying ideas, facts, recipes, procedures, pro
 Patent and trademark rights are not licensed by CC BY 4.0. No patent representation or license is made by this notice. Accurate descriptive reference to the Diamond Brew method is addressed in [TRADEMARKS.md](TRADEMARKS.md).
 
 Third-party material remains subject to its own rights and license. Quotation or citation of an external source does not place that source under this license.
+
+## Earlier repository revisions
+
+The repository previously used the Apache License 2.0. Copies received under that license retain the permissions granted to them under its terms. Beginning with the 2026 repository rebuild, the original repository materials are offered under CC BY 4.0 unless otherwise identified. This notice does not revoke or retroactively alter a license previously granted.
 
 ## Safety and warranty
 

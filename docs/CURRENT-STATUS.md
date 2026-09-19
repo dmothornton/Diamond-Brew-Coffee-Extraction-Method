@@ -8,7 +8,7 @@ The following elements recur consistently enough to form the current method enve
 
 - very fine grinding;
 - a closed vessel near 121 °C;
-- concentrated brewing ratios, commonly near 1:3 or 1:4;
+- concentrated coffee-to-water ratios by mass, commonly near 1:3 or 1:4;
 - a process hold within approximately 5–15 minutes;
 - deliberate agitation;
 - coffee-specific water selection;
@@ -34,7 +34,7 @@ The following elements recur consistently enough to form the current method enve
 
 Diamond Brew is the brewing methodology. Concentrates, packaged products, café service, wholesale programs, and client-specific formulations are applications of that methodology.
 
-Public documentation will focus on the scientific model, selected observations, method development, and reproducible research practices. Exact client formulations, detailed production SOPs, water recipes, production economics, and unannounced commercial specifications are not necessarily included.
+Public documentation will focus on the scientific model, observations, method development, and reproducible research. Every published experiment should disclose the coffee, water recipe, equipment, geometry, process conditions, measurements, and other variables needed for independent repetition. Unpublished client formulations, production economics, and commercial workflows that are not part of a published experiment need not be included.
 
 ## Near-term research priorities
 

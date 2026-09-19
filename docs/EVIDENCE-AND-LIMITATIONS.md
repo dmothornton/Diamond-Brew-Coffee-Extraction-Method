@@ -7,9 +7,9 @@ This register prevents practical observations, scientific interpretations, and c
 | Statement | Classification | Confidence | What would strengthen it |
 | --- | --- | --- | --- |
 | The process produces a concentrated coffee extract suitable for dilution | Repeated observation | High | Standardized mass balance and solids measurement |
-| Approximate 1:3 and 1:4 ratios are useful starting regions | Empirical observation | Moderate | Multi-coffee controlled comparison |
+| Approximate 1:3 and 1:4 coffee-to-water ratios by mass are useful starting regions | Empirical observation | Moderate | Multi-coffee controlled comparison |
 | Water profile changes sensory expression | Repeated observation plus established external science | Moderate-to-high | Blind replicated trials |
-| Dilution near 1:4–1:5 is often useful | Empirical observation | Moderate | Structured dilution curves by coffee |
+| Dilution near 1 part concentrate plus 4–5 parts added water by mass is often useful | Empirical observation | Moderate | Structured dilution curves by coffee |
 | Greater dilution can improve perceived clarity | Observation | Low-to-moderate | Blinded sensory panels |
 | Resting can improve perceived integration | Observation | Low | Time-series controls and analytical measurements |
 | Nominal 121 °C defines the current Diamond Brew method | Method convention grounded in development history | High | Community adoption and stable specification |

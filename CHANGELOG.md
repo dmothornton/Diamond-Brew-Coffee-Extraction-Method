@@ -21,7 +21,7 @@ All notable public documentation changes to the Diamond Brew method will be reco
 - pressure, food-contact, and shelf-stability safety boundaries;
 - experiment program and reusable experiment template;
 - public dialing-in framework;
-- Creative Commons Attribution 4.0 licensing for original repository materials;
+- Creative Commons Attribution 4.0 licensing for original repository materials, replacing Apache 2.0 for the 2026 rebuild while preserving prior grants;
 - citation metadata, contribution terms, and a method-name and branding policy;
 - open reproducibility standard for published Diamond Brew experiments;
 - temperature-response protocol separating the 121 °C definition from an unproven physical threshold.

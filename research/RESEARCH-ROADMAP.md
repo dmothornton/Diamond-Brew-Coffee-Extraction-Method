@@ -95,7 +95,7 @@ See [P2-DILUTION-CURVE.md](P2-DILUTION-CURVE.md).
 - preferred dilution mostly tracks final TDS;
 - service temperature or evaluator expectation explains the result.
 
-**Decision:** Create coffee-specific serving guidance and test the claim that clarity can improve beyond approximately 1:5.
+**Decision:** Create coffee-specific serving guidance and test the claim that clarity can improve beyond approximately 1 part concentrate plus 5 parts added water by mass.
 
 ## P3 — Agitation contribution
 
