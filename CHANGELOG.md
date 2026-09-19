@@ -21,6 +21,8 @@ All notable public documentation changes to the Diamond Brew method will be reco
 - pressure, food-contact, and shelf-stability safety boundaries;
 - experiment program and reusable experiment template;
 - public dialing-in framework;
+- Creative Commons Attribution 4.0 licensing for original repository materials;
+- citation metadata, contribution terms, and a method-name and branding policy;
 - open reproducibility standard for published Diamond Brew experiments;
 - temperature-response protocol separating the 121 °C definition from an unproven physical threshold.
 
@@ -45,7 +47,7 @@ All notable public documentation changes to the Diamond Brew method will be reco
 
 ### Deferred
 
-- licensing changes;
+- legal review of future trademark, certification, patent, or contribution-governance needs;
 - expanded literature review for high-temperature and concentrated-slurry extraction;
 - exact commercial production specification;
 - validated shelf-life claims.

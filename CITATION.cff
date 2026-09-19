@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use or adapt this repository, please cite it using the metadata below."
+title: "Diamond Brew Coffee Extraction Method"
+authors:
+  - family-names: "Thornton"
+    given-names: "David Maurice"
+repository-code: "https://github.com/dmothornton/Diamond-Brew-Coffee-Extraction-Method"
+url: "https://github.com/dmothornton/Diamond-Brew-Coffee-Extraction-Method"
+license: "CC-BY-4.0"
+version: "0.1.0-development"
+abstract: "An open, developing coffee brewing methodology defined by direct coffee-water extraction at nominally 121 degrees Celsius, with reproducible protocols, evidence classification, and a research roadmap."
+keywords:
+  - "coffee"
+  - "coffee extraction"
+  - "Diamond Brew"
+  - "high-temperature brewing"
+  - "pressure-assisted brewing"

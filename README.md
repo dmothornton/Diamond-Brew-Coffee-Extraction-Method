@@ -81,6 +81,12 @@ A pressure cooker, pressure canner, or autoclave can cause severe injury if used
 
 The current process should not be interpreted as establishing commercial sterility, shelf stability, or a validated scheduled process. See [Safety](docs/SAFETY.md).
 
-## License status
+## License and reuse
 
-The repository currently retains its existing license notice while the appropriate licensing approach for a documented physical process, research material, and possible commercial use is reviewed. No change to licensing intent should be inferred from this repository reorganization.
+Except where otherwise identified, the original documentation, protocols, diagrams, and repository datasets are licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).
+
+You may copy, adapt, publish, and use the licensed material, including commercially, provided that you give appropriate credit, link to the license, and identify changes. Suggested attribution appears in [CITATION.cff](CITATION.cff).
+
+Copyright protects the repository's original expression, not the underlying brewing procedure, facts, ideas, or methods. The license does not establish that 121 °C is a scientifically proven threshold, certify a user's process, or imply endorsement by David Maurice Thornton or Sweet Caffeine.
+
+Accurate descriptive reference to the Diamond Brew method is permitted. Sweet Caffeine names, logos, and source-identifying branding are not licensed. See [TRADEMARKS.md](TRADEMARKS.md) and [CONTRIBUTING.md](CONTRIBUTING.md).
