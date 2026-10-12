@@ -25,6 +25,7 @@ The following elements recur consistently enough to form the current method enve
 - scaling vessel geometry and batch capacity;
 - particle removal without stripping desirable oils or texture;
 - capsule and membrane filtration;
+- mechanical recovery and solids-handling concepts evaluated against hands-on labor, recovery, and beverage quality;
 - resting and refrigerated storage behavior;
 - small-format and multi-serving packaging;
 - retail and wholesale applications;

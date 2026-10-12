@@ -136,6 +136,8 @@ After replication, test individual mineral additions or a planned factorial desi
 
 ### P6 — Clarification-stage fractionation
 
+See [P6 — Filtration and Scaling](P6-FILTRATION-AND-SCALING.md) for paper-filter provenance, candidate mechanical/continuous systems, secondary clarification options, and hands-on labor measurement.
+
 Retain samples after each stage:
 
 1. pre-filtration slurry sample where safe and practical;

@@ -78,6 +78,25 @@
 - Recovered concentrate mass:
 - Filter/transfer loss:
 
+## Filtration scaling and labor
+
+- Candidate equipment/mechanism and baseline comparator:
+- Filter model/media, area, rating, and nominal/absolute basis:
+- Operating conditions and manufacturer limits:
+- Loading/transfer active time:
+- Gravity-drain elapsed time and active attendance:
+- Pressing elapsed time and active attendance:
+- Downstream filtration elapsed time and active attendance:
+- Solids discharge active time:
+- Cleaning active time, water/product loss, and method:
+- Operator count, total active person-minutes, and elapsed cycle time:
+- Final usable concentrate mass/volume and acceptance criteria:
+- Hands-on person-minutes per usable liter:
+- Strength or standardized-serving basis for comparisons:
+- Gravity/pressed/recombined fraction sample IDs and sensory results:
+- Sediment observation intervals, storage, and results:
+- Fouling, interruptions, reuse, and consumables:
+
 ## Measurements
 
 - Instrument:

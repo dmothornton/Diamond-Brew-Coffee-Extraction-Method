@@ -2,6 +2,13 @@
 
 All notable public documentation changes to the Diamond Brew method will be recorded here.
 
+## October 12, 2026 — Filtration history and scaling
+
+- documented the June 2025 secondary-paper-filtration rationale and limits of the recovered chronology;
+- added P6 filtration scaling research covering mechanical recovery, conveyor/belt and moving-bed concepts, self-cleaning surfaces, and capsule/membrane options;
+- added loading, discharge, cleaning, fraction quality, and hands-on labor per usable liter to experimental reporting;
+- clarified that candidate filtration systems and paper-filter benefits remain unvalidated and do not change the defining extraction parameters.
+
 ## October 12, 2026 — Research documentation review
 
 - separated extraction-water and dilution/service-water variables and P5 research questions;

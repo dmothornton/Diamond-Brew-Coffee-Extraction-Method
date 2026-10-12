@@ -64,10 +64,12 @@ The vessel is cooled and depressurized according to the equipment manufacturer's
 Current clarification may include:
 
 1. coarse filtration through food-suitable cloth;
-2. secondary paper filtration;
+2. secondary paper filtration where useful for residual fines and sediment;
 3. optional freeze-assisted clarification or separation.
 
 The aim is to remove objectionable particles while retaining selected oils and colloidal material where they contribute positively to texture and flavor. “Freeze clarification” should not be assumed to mean freeze concentration.
+
+Paper filtration was introduced as a practical clarification step after muslin; its sensory benefit and necessity remain unestablished. The sequence is developmental rather than mandatory. See [Development History](docs/DEVELOPMENT-HISTORY.md) and [P6 — Filtration and Scaling](research/P6-FILTRATION-AND-SCALING.md) for provenance and candidate alternatives.
 
 ## 7. Resting and storage
 

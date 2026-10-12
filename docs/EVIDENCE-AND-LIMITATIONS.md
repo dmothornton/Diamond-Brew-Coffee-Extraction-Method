@@ -36,6 +36,12 @@ Two overlapping explanations for the filtration behavior are a permeable grounds
 
 The first/second Orchard extraction samples submitted for external analysis have no reported analytical findings yet. They do not establish lower caffeine or a distinct chemical composition in the second extraction.
 
+## Filtration scope
+
+June 2025 development reports describe reduced residual fines after secondary paper filtration, while remaining sediment and an outstanding muslin-only taste comparison limit the conclusion. Paper filtration is a practical clarification option, not an established sensory improvement or defining method requirement.
+
+Mechanical presses, moving belts/beds, screw handling, self-cleaning screens, crossflow concepts, and specific capsule/membrane configurations have no documented Diamond Brew performance results. They are research candidates. See [P6 — Filtration and Scaling](../research/P6-FILTRATION-AND-SCALING.md). Hypothesized labor savings and selective retention must be measured rather than entered as empirical findings.
+
 ## Evidence traceability
 
 As the experiment record grows, claims should link to one or more evidence sources:

@@ -46,6 +46,18 @@ Diamond Brew did not develop through a simple sequence of discrete stages. Diffe
 
 These developments overlap. The list organizes the present body of work; it should not be read as a strict chronology.
 
+## Secondary paper filtration — June 2025 development record
+
+The earliest relevant discussions recovered for this documentation place AeroPress secondary filtration after cloth/muslin in June 2025. This is a reconstruction from development discussions, not proof of the first adoption date.
+
+On June 6, AeroPress filtration was considered a practical way to process cloth-filtered concentrate in portions. On June 13, Dave reported that paper filtration after muslin reduced fines, although some remained. Sediment settled after roughly a day and could solidify or flake from bottle bottoms, affecting presentation. A taste comparison with muslin-only filtration was still outstanding.
+
+The developmental approach used muslin for bulk separation, with optional paper filtration to reduce remaining fines before freezing. The documented rationale concerns clarification and bottled sediment. It does not establish sensory superiority, selective oil retention, health effects, or paper filtration as a defining requirement of Diamond Brew.
+
+## Filtration scaling concepts — October 2026
+
+Whole-slurry filtration and gravity drainage followed by squeezing prompted investigation of cake structure and recovery. Dave also proposed looking beyond coffee equipment, including excavation conveyors, for ideas about solids handling. Candidate mechanical pressing, moving belts/beds, screw handling, and self-cleaning concepts remain unvalidated. See [P6 — Filtration and Scaling](../research/P6-FILTRATION-AND-SCALING.md) for the research questions and measurement plan.
+
 ## Sweet Caffeine
 
 Sweet Caffeine functions as a business that highlights Diamond Brew. It gives customers direct access to the method and provides a practical setting for service, observation, feedback, and continued refinement.
