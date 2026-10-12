@@ -2,6 +2,16 @@
 
 All notable public documentation changes to the Diamond Brew method will be recorded here.
 
+## October 12, 2026 — Research documentation review
+
+- separated extraction-water and dilution/service-water variables and P5 research questions;
+- recorded preliminary dilution-water and whole-slurry filtration observations with competing explanations and evidence limits;
+- expanded filtration recovery, labor, and analytical sample-traceability fields;
+- recorded the pending Orchard successive-extraction analysis without claiming results;
+- added fine-interval dilution trials and independent sensory evaluation;
+- distinguished exploratory post-fill processing from validated finished-package heat treatment;
+- retained the defining method parameters and current shelf-stability limitations.
+
 ## Unreleased — 2026 repository rebuild
 
 ### Added

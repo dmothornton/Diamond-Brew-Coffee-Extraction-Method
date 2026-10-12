@@ -21,6 +21,21 @@ This register prevents practical observations, scientific interpretations, and c
 | Processing at 121 °C makes every package commercially sterile | Not established | Very low | Validated scheduled process in the final package and production system |
 | Refrigerated sensory stability establishes microbial safety | Unsupported inference | High confidence that the inference is invalid | Separate microbial and quality testing |
 
+## October 2026 development observations
+
+These entries derive from operator reports, not controlled published trials. Batch-level records and raw measurements remain outstanding.
+
+| Statement | Classification | Confidence | What would strengthen it |
+| --- | --- | --- | --- |
+| Dilution-water composition can alter sensory expression; distilled dilution water was reported to outperform Balance-profile and cart-filtered water in development comparisons | Preliminary development observation | Low-to-moderate | Blind replicated comparisons using one homogeneous concentrate, fixed dilution, documented waters, and matched service temperature |
+| Whole-slurry muslin filtration was reported to drain more readily than decanted liquid; most liquid drained by gravity and squeezing recovered the remainder (October 8) | Preliminary empirical observation | Moderate in reported behavior; low-to-moderate in mechanism | Controlled whole-slurry, decanted-liquid, and precoat comparisons with recovery and time measurements |
+
+The water observation does not establish distilled water as generally superior. Potassium citrate, magnesium chloride, calcium chloride, potassium bicarbonate, and magnesium sulfate remain experimental formulation inputs; no preferred ions or concentrations are established.
+
+Two overlapping explanations for the filtration behavior are a permeable grounds cake that intercepts microfines and a decanted feed enriched in particles that blind the cloth. Controlled precoating may distinguish their contributions, but changes in feed mass, settling, particle distribution, temperature, and pressing must also be accounted for.
+
+The first/second Orchard extraction samples submitted for external analysis have no reported analytical findings yet. They do not establish lower caffeine or a distinct chemical composition in the second extraction.
+
 ## Evidence traceability
 
 As the experiment record grows, claims should link to one or more evidence sources:
