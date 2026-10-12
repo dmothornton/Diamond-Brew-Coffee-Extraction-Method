@@ -22,7 +22,7 @@ This is a development research program, not a substitute for an accredited labor
 | P2 | Does preferred dilution form a coffee-specific optimum? | High | Very high | Very high |
 | P3 | Does controlled agitation materially change recovery, repeatability, or clarification? | Moderate-to-high | High | High |
 | P4 | Does directly brewed concentrate differ from a lower-temperature concentrate at matched serving strength? | High | Moderate | High |
-| P5 | How much of the sensory effect is produced by the water profile? | Moderate-to-high | High | High |
+| P5 | How do extraction-water and dilution-water compositions separately affect sensory expression? | Moderate-to-high | High | High |
 | P6 | What does each clarification stage remove, and what does it contribute sensorially? | High | Moderate | High |
 | P7 | What changes during refrigerated rest? | Moderate | High | Moderate-to-high |
 | P8 | How do roast development and brew ratio interact? | Moderate | Moderate | High |
@@ -124,9 +124,15 @@ This cannot perfectly isolate one variable because the methods differ in tempera
 
 ### P5 — Water-profile comparison
 
-Use one coffee and one otherwise fixed Diamond Brew process. Compare the current water profiles using randomized sample codes and the same final strength.
+#### P5a — Extraction-water composition
 
-This tests repeatability and coffee-specific preference. It does not by itself identify which ion or chemical mechanism caused the difference.
+Use one coffee and an otherwise fixed extraction process. Vary extraction-water composition while holding dilution water fixed. Compare randomized samples at matched final strength and record recovery as well as sensory results.
+
+#### P5b — Dilution-water composition
+
+Split one homogeneous concentrate and vary only dilution water, holding concentrate-to-added-water mass ratio and service temperature fixed. Begin by testing whether the reported distilled-water advantage replicates. Document sources and recipes rather than relying on profile names.
+
+After replication, test individual mineral additions or a planned factorial design. A crossed extraction-water × dilution-water study can test interactions once each stage is characterized. Neither stage alone identifies the responsible ions or establishes a universally preferred recipe.
 
 ### P6 — Clarification-stage fractionation
 
@@ -138,6 +144,14 @@ Retain samples after each stage:
 4. freeze-clarified or membrane-treated extract, when applicable.
 
 Measure mass recovery, strength, visible turbidity, filtration time, and sensory change. This can identify whether a step adds enough value to justify its product loss and labor.
+
+#### Filtration-feed comparison
+
+Compare whole slurry, decanted liquid, and decanted liquid passed through a controlled grounds precoat using matched cloth area, geometry, temperature, and handling. Record feed mass and particle/settling history. Account for liquid and solutes introduced by the precoat. Normalize throughput to feed quantity and cloth area.
+
+Measure gravity-drain time and recovered mass separately from pressing time and additional recovery; record wet retained solids, residual-liquid estimate and method, and downstream paper/capsule filtration time, recovery, and turbidity. Use a mass balance and blind sensory assessment to evaluate labor, loss, and quality together.
+
+If cake formation is important, a suitable precoat should improve decanted-liquid filtration. If feed particle distribution dominates, the effect may depend more strongly on settling and fines content. A null precoat result alone would not rule out cake effects unless precoat structure is characterized.
 
 ### P7 — Resting time series
 
@@ -165,9 +179,19 @@ Useful outside measurements could include:
 - lipid or diterpene content;
 - dissolved oxygen where relevant.
 
-### Shelf life
+#### Orchard successive-extraction study — analysis pending
+
+Two Orchard samples, representing first and second extraction, were supplied for external chemical characterization and caffeine measurement. No results are currently reported. Prepare a separate experimental record once batch and sample details are assembled; do not invent missing conditions or promote anticipated findings into the evidence register.
+
+Compare three models: preferential early recovery of caffeine/readily soluble material, changed relative composition in later extract, and differences explained mainly by concentration. Report concentration with units, recovered extract mass, total recovered analyte mass, and analyte recovery per original dry-coffee mass. Relative composition requires a stated normalization basis; incomplete mass balances and differences in preparation or storage limit interpretation. One sample pair is exploratory, even if laboratory measurements are precise.
+
+### P10 — Shelf life and post-fill processing
 
 Quality-life observations and microbial safety must remain separate. Shelf-stability work should be designed with a qualified process authority or food laboratory around the final formulation, container, filling process, and storage condition.
+
+Post-fill thermal processing is an exploratory preservation direction, separate from defining extraction. Discuss product, packaging, equipment, heat penetration, and controls with qualified specialists before selecting a protocol or incorporating it into commercial production.
+
+Evaluate microbial reduction, sensory change, and possible acceleration of refrigerated-resting changes as separate hypotheses with separate measurements. Prior brewing at nominally 121 °C for 30 minutes does not validate reheating filtered concentrate in sealed bottles. Vessel temperature and elapsed hold do not establish cold-spot product exposure, closure integrity, shelf stability, or commercial sterility. See [Safety](../docs/SAFETY.md).
 
 ## Evidence thresholds
 

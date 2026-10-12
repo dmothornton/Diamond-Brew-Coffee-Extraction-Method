@@ -1,7 +1,7 @@
 # Current Public Method Envelope
 
 **Status:** Developmental  
-**Last revised:** September 2026
+**Last revised:** October 12, 2026
 
 This document defines the present open method envelope for Diamond Brew. It is not a validated food-manufacturing process or a universal recipe. Published experiments should provide enough detail for independent repetition.
 
@@ -20,6 +20,8 @@ The temperature applies during extraction—not merely to later heat treatment o
 Diamond Brew has been developed across multiple roast levels and origins. Coffee selection affects the useful brew ratio, water profile, processing time, clarification behavior, and final dilution.
 
 ### Water
+
+Extraction water and dilution/service water are separate formulation variables. Optimizing the water used to extract coffee does not establish the optimum water for the finished beverage. Record each water source and composition independently; hold one fixed when testing the other.
 
 Water chemistry is treated as an active formulation variable. Current development uses several profile families—Balance, Delicate, High Aroma, and Expressive—to explore how mineral composition changes extraction and sensory expression.
 
@@ -84,7 +86,7 @@ Greater dilution has sometimes produced improved clarity even when the concentra
 A public description of the development sequence is:
 
 1. Choose an initial brew ratio based on the coffee and intended application.
-2. Choose a starting water profile from the current profile families.
+2. Choose and document extraction water and dilution/service water separately, using the current profile families where relevant.
 3. Process a reference sample under a documented standard condition.
 4. Evaluate the concentrate at multiple controlled dilutions.
 5. Identify the principal failure mode or opportunity—for example muted origin character, excessive roast emphasis, weak structure, muddled flavor separation, or filtration loss.
@@ -99,7 +101,7 @@ A published Diamond Brew experiment should report, at minimum:
 
 - coffee identity, roast information, and elapsed time from roast where available;
 - coffee and water masses;
-- water composition or complete preparation recipe;
+- extraction-water and dilution/service-water sources, masses, and compositions or complete preparation recipes;
 - grinder, setting, and particle-size characterization where available;
 - brewing and sample-container model, geometry, fill, closure, and position;
 - temperature measurement, sensor location, come-up time, hold-start rule, hold time, and cooling history;

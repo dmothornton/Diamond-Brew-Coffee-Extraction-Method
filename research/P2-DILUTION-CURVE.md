@@ -28,6 +28,18 @@ Ratios must use one consistent convention throughout the experiment. State expli
 
 Use the same dilution water and service temperature for every sample. Prepare by mass rather than volume where practical.
 
+## Fine-interval follow-up
+
+After broad screening, predefine a narrower series around a promising region—for example 1 part concentrate plus 4.75, 5.00, and 5.25 parts added water by mass. Small differences have been reported in development, but their repeatability and perceptual magnitude remain unestablished. Keep dilution-water composition fixed; test water chemistry separately under P5b.
+
+Repeat with independently prepared samples and across production days. Limit samples per session and balance order to reduce fatigue and carryover. Confirm a selected region in a new blinded session rather than treating the best score from exploratory screening as a proven optimum.
+
+## Independent sensory evaluation
+
+Recruit qualified independent coffee sensory evaluators and document their relevant experience, protocol, and any commercial relationship. Evaluate preferred drinking strength, perceived flavor clarity, and independently assessed sensory quality separately; their optima may differ. Use a stated scoring framework suitable for the finished beverage and retain individual responses.
+
+For comparison with conventional brewing, use the same coffee lot, matched measured final strength with a suitable coffee-TDS method, controlled water and service temperature, and blinded randomized presentation. Record remaining process differences; a matched-strength comparison does not isolate extraction temperature alone. If reliable strength matching is unavailable, disclose that limitation rather than claiming equivalence.
+
 ## Measurements
 
 For each dilution:
@@ -71,7 +83,8 @@ Plot dilution against each mean attribute and preference score.
 Look for:
 
 - a peak rather than a straight-line relationship;
-- a clarity optimum that differs from the preference optimum;
+- separate optima for preferred drinking strength, clarity, and assessed sensory quality;
+- uncertainty and individual responses rather than only the highest mean score;
 - an intensity threshold below which the coffee loses identity;
 - strong differences among tasters;
 - order or temperature effects.

@@ -31,6 +31,12 @@ Reaching an indicated vessel temperature near 121 °C does not by itself establi
 
 A process intended to create an ambient shelf-stable low-acid product generally requires specialized regulatory review and a validated scheduled process. Refrigerated storage does not remove the need for sanitation, time-temperature control, shelf-life definition, and applicable licensing.
 
+## Extraction versus finished-package heat treatment
+
+Extraction conditions describe brewing coffee in water. They are not a validated heat-treatment schedule for filtered concentrate in sealed finished packages. Previous brewing at nominally 121 °C for 30 minutes does not establish the safety, package compatibility, or sensory effects of a second treatment.
+
+Post-fill processing requires qualified evaluation of the actual product, container, closure, equipment, heat penetration, and cold-spot temperature history. An indicated canner temperature and a timed hold alone do not establish microbial reduction in every package or justify shelf-stability or commercial-sterility claims. Evaluate sensory effects and microbial outcomes separately. Do not incorporate an experimental post-fill treatment into commercial production before qualified review and applicable approval.
+
 ## Research versus sale
 
 Experimental measurements and sensory observations must not be represented as regulatory validation. Product intended for sale should be produced only under the relevant permits, approved facility conditions, labeling rules, and validated controls.

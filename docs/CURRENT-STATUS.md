@@ -1,4 +1,4 @@
-# Current Status — September 2026
+# Current Status — October 12, 2026
 
 Diamond Brew has advanced from a compact concept description into an actively used and researched coffee brewing methodology. Sweet Caffeine uses live beverage service to highlight the method, while retail, wholesale, and collaborative formats provide additional contexts for evaluating it.
 
@@ -44,3 +44,13 @@ Public documentation will focus on the scientific model, observations, method de
 4. Compare clarification sequences using recovery, turbidity, and sensory outcomes.
 5. Separate refrigerated quality-life testing from microbial shelf-life validation.
 6. Develop a traceable batch and sample-naming system.
+
+## October research checkpoint
+
+- Extraction water and dilution/service water are being treated as separate formulation variables; the reported distilled dilution-water advantage remains preliminary.
+- Whole-slurry muslin filtration was reported to drain more readily than decanted liquid. Filter-cake formation and particle-distribution effects remain competing, overlapping explanations. Controlled recovery and labor comparisons are planned.
+- First and second Orchard extraction samples have been supplied for external chemical and caffeine analysis. Results and complete batch/sample metadata are pending.
+- Fine-interval dilution trials and independent professional sensory evaluation are proposed; no universal optimum is established.
+- Post-fill thermal processing is exploratory preservation research, not a validated production or shelf-stability control.
+
+These developments expand the research program without changing the nominal 121 °C extraction criterion, usual 5–15 minute developmental hold range, or approximate 1:3/1:4 starting ratios. Service doses such as 30 mL or 40 mL remain application choices rather than defining method parameters.
