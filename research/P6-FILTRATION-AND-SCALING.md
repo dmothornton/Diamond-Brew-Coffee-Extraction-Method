@@ -30,6 +30,22 @@ Dave's excavation/conveyor analogy prompted exploration of solids handling and m
 
 A concept may serve one stage rather than replace the entire filtration sequence. Start with the measured bottleneck and the simplest feasible comparison; equipment development is not itself evidence of process improvement.
 
+## Connected-chamber concept — October 15 development proposal
+
+The proposed arrangement keeps two chambers connected throughout brewing: slurry occupies the lower chamber and an initially empty chamber sits above it, with a filter medium between them. After brewing, the conceptual assembly is inverted so extract can pass into the receiving chamber, potentially assisted by a controlled pressure differential. This describes a research concept, not construction or operating instructions.
+
+Separate three hypotheses:
+
+1. Connected handling reduces transfer-related product loss and exposure.
+2. A controlled differential across the filter improves filtration throughput or recovery.
+3. Headspace/condensate capture and return changes aromatic recovery or sensory quality.
+
+There are no performance results for this arrangement. The initially empty chamber is a headspace, not necessarily an effective condenser. Condensation and recovery must be measured; a pressure differential alone does not establish either, and captured material need not improve flavor. See P9 in the [roadmap](RESEARCH-ROADMAP.md).
+
+Subject to qualified apparatus review, compare conventional transfer with connected transfer under matched conditions, then differential-assisted filtration with the same apparatus at a reference differential. Record temperatures, absolute pressures on both sides, differential over time, filter/cake geometry, throughput, mass recovery, transfer loss, exposure time, active labor, and sensory results. Account for changed headspace and thermal history rather than attributing every difference to filtration.
+
+Ordinary Mason jars and improvised couplers must not be assumed suitable for this combined thermal, pressure-differential, and mechanical duty. Any apparatus requires appropriately rated chambers, connections, filters, seals, and pressure/vacuum protection, with compatible food-contact materials and qualified engineering review. Do not invert or manipulate a hot or pressurized assembly contrary to equipment instructions. Existing pressure-vessel safety boundaries remain in force; this proposal authorizes no apparatus modification. See [Safety](../docs/SAFETY.md).
+
 ## Secondary clarification candidates
 
 Paper, freeze-assisted clarification, capsule filters, and membrane systems remain distinct options with different research questions. Compare them against the current baseline rather than assuming all are needed in series.

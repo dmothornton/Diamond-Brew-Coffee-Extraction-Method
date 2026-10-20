@@ -36,6 +36,18 @@ Two overlapping explanations for the filtration behavior are a permeable grounds
 
 The first/second Orchard extraction samples submitted for external analysis have no reported analytical findings yet. They do not establish lower caffeine or a distinct chemical composition in the second extraction.
 
+## October 12–18 review additions
+
+These are dated development reports summarized in the October 18 review. Raw records, complete formulations, and blinded replication are not supplied with these entries.
+
+| Report | Classification | Confidence and limits | Next test |
+| --- | --- | --- | --- |
+| October 15: 30 mL servings were reported clearer or more expressive than 40 mL across several profiles; higher dilutions near 1:7 or greater were being explored | Repeated development observation, not controlled validation | Moderate confidence in reported preference; low-to-moderate in generalization. Dose, beverage size, ratio convention, and service conditions are not fully controlled | Separate the P2 comparisons of fixed beverage size, fixed ratio, and fixed concentrate mass; replicate blinded by coffee |
+| October 17: distilled dilution water was preferred to Delicate; fruit notes were prominent, but coffees contrasted less than anticipated | Preliminary sensory observation | Low-to-moderate; directionally consistent with earlier reports, without establishing a mineral mechanism or universal preference | P5b: one homogeneous concentrate, fixed dilution, matched temperature, documented distilled/Balance/Delicate waters, randomized codes |
+| October 15: connected chambers might reduce handling loss, assist filtration, and capture/return aromatic material | Engineering and sensory hypotheses | No apparatus performance or sensory benefit established | Separate P6 transfer/filtration tests from P9 condensate recovery and sensory comparisons |
+
+No new Orchard laboratory findings accompany this review; the analytical study remains pending. A plausible volatile-recovery mechanism is not evidence that condensation occurs effectively or improves the finished beverage.
+
 ## Filtration scope
 
 June 2025 development reports describe reduced residual fines after secondary paper filtration, while remaining sediment and an outstanding muslin-only taste comparison limit the conclusion. Paper filtration is a practical clarification option, not an established sensory improvement or defining method requirement.

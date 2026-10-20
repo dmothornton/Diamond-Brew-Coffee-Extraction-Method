@@ -2,6 +2,14 @@
 
 All notable public documentation changes to the Diamond Brew method will be recorded here.
 
+## October 19, 2026 — October 12–18 research review
+
+- added connected-chamber transfer/filtration and P9 condensate-return hypotheses with separate controls and apparatus limitations;
+- expanded P2 to the 1:7–1:8 region where appropriate and distinguished dose, dilution, and beverage size;
+- recorded preliminary dose and distilled-versus-Delicate reports and expanded P5b controls;
+- replaced the outdated current Coffee Fest sample claim with dated historical context and a requirement to verify actual formulation;
+- extended experiment traceability; retained defining extraction parameters and existing safety limits.
+
 ## October 12, 2026 — Filtration history and scaling
 
 - documented the June 2025 secondary-paper-filtration rationale and limits of the recovered chronology;

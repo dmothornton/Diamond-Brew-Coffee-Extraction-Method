@@ -1,4 +1,6 @@
-# Current Status — October 12, 2026
+# Current Status — October 19, 2026
+
+Research evidence cutoff for this update: October 18, 2026. Operational event details require separate verification against the latest owner-approved plan.
 
 Diamond Brew has advanced from a compact concept description into an actively used and researched coffee brewing methodology. Sweet Caffeine uses live beverage service to highlight the method, while retail, wholesale, and collaborative formats provide additional contexts for evaluating it.
 
@@ -55,3 +57,11 @@ Public documentation will focus on the scientific model, observations, method de
 - Post-fill thermal processing is exploratory preservation research, not a validated production or shelf-stability control.
 
 These developments expand the research program without changing the nominal 121 °C extraction criterion, usual 5–15 minute developmental hold range, or approximate 1:3/1:4 starting ratios. Service doses such as 30 mL or 40 mL remain application choices rather than defining method parameters.
+
+## October 12–18 research review
+
+- Connected-chamber extraction/separation is an engineering proposal, with transfer-loss, pressure-differential filtration, and condensate-return hypotheses evaluated separately under P6/P9. No apparatus or aromatic benefit is validated.
+- Reported 30 mL preferences and exploration near 1:7 or greater justify wider P2 screening, including 1:8 where appropriate. Dose, dilution convention, and beverage size must be recorded separately; no universal dose or ratio is established.
+- The reported distilled-over-Delicate preference extends P5b comparisons to distilled, Balance, and Delicate without establishing a preferred mineral formulation.
+- The old 5 g plus 25 g Coffee Fest example is historical. Event sample/vial sizes do not define a recipe and should not be treated as a current operational decision in this repository.
+- Orchard chemical/caffeine results remain pending in the reviewed evidence. Defining extraction parameters and food-safety limitations are unchanged.

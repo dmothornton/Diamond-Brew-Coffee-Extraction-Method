@@ -78,6 +78,21 @@
 - Recovered concentrate mass:
 - Filter/transfer loss:
 
+## Optional connected-chamber and condensate research
+
+- Qualified apparatus review/reference and approved operating limits:
+- Chamber models, connections, materials, volumes, headspace, fill, and configuration:
+- Filter position, medium, area, and cake geometry:
+- Orientation/transfer stage and approved handling method:
+- Absolute pressure on each side, differential sign convention, units, sensor locations, and time trace:
+- Chamber/product/condensation temperatures, locations, and time traces:
+- Condensate sample IDs, collection location/time, mass, storage, and returned fraction:
+- Mass-matched water-addition control and no-return comparator:
+- Initial inputs, final extract, retained liquid, condensate, transfer loss, and mass-balance boundary:
+- Internal condensate redistribution versus net recovered mass:
+- Exposure/transfer time, matched-strength basis, and sensory/analytical results:
+- Confounds, missing measurements, and deviations:
+
 ## Filtration scaling and labor
 
 - Candidate equipment/mechanism and baseline comparator:
@@ -125,6 +140,10 @@
 
 ## Sensory design
 
+- Concentrate dose mass/volume, temperature, and conversion basis:
+- Added-water mass and explicit ratio convention:
+- Total beverage mass/volume and tasting aliquot size:
+- Comparison held fixed (beverage mass, ratio, or concentrate mass):
 - Dilution(s):
 - Service temperature:
 - Blind/randomized sample codes:
