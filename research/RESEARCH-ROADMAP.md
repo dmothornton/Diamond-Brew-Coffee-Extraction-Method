@@ -130,7 +130,7 @@ Use one coffee and an otherwise fixed extraction process. Vary extraction-water 
 
 #### P5b — Dilution-water composition
 
-Split one homogeneous concentrate and vary only dilution water, holding concentrate-to-added-water mass ratio and service temperature fixed. Begin by testing whether the reported distilled-water advantage replicates. Document sources and recipes rather than relying on profile names.
+Split one homogeneous concentrate and vary only dilution water, holding concentrate-to-added-water mass ratio and service temperature fixed. Begin by testing whether the reported distilled-water advantage replicates, including distilled versus both Balance and Delicate profiles with documented compositions. Document sources and recipes rather than relying on profile names.
 
 After replication, test individual mineral additions or a planned factorial design. A crossed extraction-water × dilution-water study can test interactions once each stage is characterized. Neither stage alone identifies the responsible ions or establishes a universally preferred recipe.
 
@@ -163,11 +163,19 @@ Include both undisturbed and standardized-remixed samples where practical. This 
 
 ## Deferred or externally supported research
 
-### Pressure and closure
+### P9 — Pressure, closure, and volatile recovery
 
 A clean pressure-versus-temperature comparison is difficult because pressure, boiling, evaporation, and vessel closure are coupled in current equipment.
 
 Do not alter, obstruct, defeat, or improvise pressure-relief systems. Do not deliberately operate a pressure vessel in an unapproved vented state. A rigorous pressure or volatile-capture experiment should use equipment designed for controlled pressure, temperature, headspace sampling, and safe vent management.
+
+#### Connected chambers and condensate return
+
+The October 15 [connected-chamber proposal](P6-FILTRATION-AND-SCALING.md) couples extraction headspace with subsequent separation. Test volatile capture independently of transfer-loss and filtration claims. Compare conventional handling, connected handling without deliberate condensate return, and quantified condensate return where a suitably engineered apparatus permits these controls. Match or document extraction conditions, headspace, cooling, transfer time, final mass/strength, and oxygen exposure.
+
+Measure condensate mass, collection temperature/time, location, storage, and returned fraction; retain samples for qualified chemical analysis and blinded sensory assessment. Include a water-addition control matched to condensate mass to distinguish dilution from condensate composition. Avoid double-counting internally redistributed condensate as net product recovery.
+
+Competing explanations include greater volatile retention, altered volatile partitioning without net recovery, undesirable compounds returned with condensate, and sensory effects caused mainly by thermal history, headspace, or final dilution. Neither condensation nor closed handling establishes improved aroma or microbial safety. Apply the qualified apparatus and operating limits in P6 before any experiment.
 
 ### Chemical characterization
 

@@ -22,11 +22,26 @@ Choose a dilution series broad enough to include the current service region and 
 - 1:4;
 - 1:5;
 - 1:6;
-- 1:7.
+- 1:7;
+- 1:8 where appropriate to the coffee and intended beverage.
 
 Ratios must use one consistent convention throughout the experiment. State explicitly whether 1:5 means one part concentrate plus five parts water or one part concentrate in five total parts.
 
 Use the same dilution water and service temperature for every sample. Prepare by mass rather than volume where practical.
+
+## Serving dose, dilution ratio, and beverage size
+
+October 15 development reports described clearer or more expressive beverages using 30 mL rather than 40 mL concentrate across several profiles, alongside exploration near 1:7 or greater dilution. These are development preferences, not controlled validation or universal serving standards.
+
+A concentrate dose, concentrate-to-added-water ratio, and total beverage size describe related but different quantities. For a fixed concentrate and a two-component beverage, only two are independently selectable. Define ratios by mass here: 1:7 means one part concentrate plus seven parts added water. Do not translate a reported volumetric service ratio into a mass ratio without measurements; record the original convention or mark it unknown.
+
+Use separate comparisons:
+
+- Hold final beverage mass fixed and vary concentrate dose, adjusting added water. This tests the dose/dilution combination at one beverage size; it cannot isolate dose from concentration.
+- Hold dilution ratio fixed and vary total prepared serving size. This tests serving-size/context effects while concentration remains nominally constant; use equal tasting aliquots for the initial sensory comparison.
+- Hold concentrate mass fixed and vary added water for the dilution-response curve. Screen the 1:7–1:8 region, then use fine intervals only where justified.
+
+Record concentrate mass and, when used in service, volume with measurement temperature and density conversion basis. Do not assume 30 mL equals 30 g. Evaluate coffees separately and repeat blinded comparisons before prescribing a dose or dilution.
 
 ## Fine-interval follow-up
 
@@ -46,7 +61,8 @@ For each dilution:
 
 - concentrate mass;
 - dilution-water mass;
-- calculated dilution;
+- calculated dilution and explicit mass/volume convention;
+- total prepared beverage mass/volume and tasting aliquot size;
 - measured °Brix or TDS if the instrument and method are appropriate;
 - service temperature;
 - time between preparation and tasting.
@@ -97,4 +113,6 @@ A single optimum should not be assumed across coffees. The useful commercial out
 
 ## Coffee Fest extension
 
-The current 5 g concentrate plus 25 g water sample is a clearly defined 1:5 concentrate-to-added-water dilution. Include that exact formulation as one condition so the result can directly inform the event.
+The September 2026 protocol used 5 g concentrate plus 25 g water as a 1:5 concentrate-to-added-water example. It is a historical formulation, not the current festival standard.
+
+The October 18 review reported planning discussions around approximately 15 mL warm tasting samples and 30 mL retail vials. Those are dated operational context, not a finalized recipe or method specification. Verify the latest owner-approved event plan separately; record actual concentrate and added-water masses, final tasting volume, service temperature, and preparation time for any event-linked trial. Neither sample volume nor vial size establishes dilution.
