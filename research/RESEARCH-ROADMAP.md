@@ -161,6 +161,22 @@ Split one homogeneous filtered batch into identical containers and evaluate at d
 
 Include both undisturbed and standardized-remixed samples where practical. This helps distinguish settling from irreversible chemical or colloidal change. It does not determine microbial safety.
 
+### Freeze-thaw fractionation — low-priority follow-up
+
+See [issue #5](https://github.com/dmothornton/Diamond-Brew-Coffee-Extraction-Method/issues/5) for the October 30 single-vial observation and proposed controls. No sensory improvement over unfrozen concentrate was demonstrated. Compare frozen/thawed and unfrozen aliquots from one batch, record full-thaw/rest history and fraction masses, and measure calibrated TDS, turbidity, sediment, and recovery. Use blinded matched-strength tasting. Separate dissolved-solute redistribution from particle settling or aggregation; retain negative results.
+
+### Cross-variable sensitivity screening
+
+Estimate effects separately on recovered solids, sensory quality, clarification burden, and repeatability. Candidate factors are extraction-water composition, water mass/brew ratio, grind size, hold time, measured heat-up history, and roast level. No ranking is established. Use practical predefined factor ranges, randomized production runs and independent-day replication; record geometry, cooling, filtration, and coffee lot. Treat heat-up duration as a measured thermal-history variable rather than interchangeable with hold time.
+
+Screen main effects with a feasible planned design, then test plausible interactions such as water amount × grind and roast × hold. A screening ranking is conditional on chosen ranges, coffee, and outcome; do not infer a universal hierarchy from a single comparison.
+
+### Service treatment — heating, dilution, and aeration
+
+The October 30 steam-wand preference is a hypothesis-generating observation. Split a homogeneous concentrate into untreated, gently heated, gently heated plus matched-water, and steam-treated conditions where feasible. Match final serving temperature and elapsed time; weigh samples before and after treatment and document evaporation as well as condensate. Record temperature–time history, foam and aeration, final mass, and tasting delay.
+
+Use randomized blinded evaluation and independent-day replication. Separate dilution effects from heating effects before attributing preference to chemical transformation; imperfect aeration or thermal-history matching must remain explicit limitations. These are service experiments, not defining extraction steps or validated preservation processes.
+
 ## Deferred or externally supported research
 
 ### P9 — Pressure, closure, and volatile recovery
@@ -189,11 +205,17 @@ Useful outside measurements could include:
 - lipid or diterpene content;
 - dissolved oxygen where relevant.
 
-#### Orchard successive-extraction study — analysis pending
+#### Orchard successive-extraction study — blocked as of October 22
 
-Two Orchard samples, representing first and second extraction, were supplied for external chemical characterization and caffeine measurement. No results are currently reported. Prepare a separate experimental record once batch and sample details are assembled; do not invent missing conditions or promote anticipated findings into the evidence register.
+The original study supplied two Orchard samples intended to represent first and second extraction for external chemical characterization and caffeine measurement. An October 22 update reported sample loss and laboratory closure. Analysis is blocked; surviving sample identities, analytical usability, and testing date are unresolved. Later references to a “second batch” must not be interpreted as “second extraction.” No results are reported. Prepare a separate experimental record once batch and sample details are assembled; do not invent missing conditions or promote anticipated findings into the evidence register.
 
 Compare three models: preferential early recovery of caffeine/readily soluble material, changed relative composition in later extract, and differences explained mainly by concentration. Report concentration with units, recovered extract mass, total recovered analyte mass, and analyte recovery per original dry-coffee mass. Relative composition requires a stated normalization basis; incomplete mass balances and differences in preparation or storage limit interpretation. One sample pair is exploratory, even if laboratory measurements are precise.
+
+#### Acidity characterization — proposed, no results yet
+
+Measure pH, titratable acidity, and suitably calibrated coffee TDS on traceable concentrate and defined dilutions. Record water composition, sample preparation, instrument calibration, measurement temperature, and replicate results. For titration, record sample mass, titrant concentration, endpoint, blanks, units, and calculation basis; use a qualified laboratory where needed.
+
+Compare sensory sourness under blinded, matched-strength and matched-temperature conditions. pH, titratable acidity, and perceived sourness are distinct outcomes; no single measure establishes the others. Include coffee lot, roast, dilution, and storage history. This characterizes acidity, not microbial shelf life, TCS classification, or a validated safety process; see [Safety](../docs/SAFETY.md).
 
 ### P10 — Shelf life and post-fill processing
 

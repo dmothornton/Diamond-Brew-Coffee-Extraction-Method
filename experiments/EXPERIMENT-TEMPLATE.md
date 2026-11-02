@@ -112,6 +112,18 @@
 - Sediment observation intervals, storage, and results:
 - Fouling, interruptions, reuse, and consumables:
 
+## Optional service-treatment comparison
+
+- Treatment (untreated, gentle heat, matched-water heat control, steam, other):
+- Heating equipment/method and sample geometry:
+- Initial/final sample mass and temperature:
+- Temperature–time history, sensor location, and uncertainty:
+- Added water/estimated condensate, measurement method, and evaporation:
+- Matched-water control and final-mass/strength matching:
+- Aeration method, foam volume/stability, and mixing:
+- Time from treatment to tasting and service temperature:
+- Remaining thermal, dilution, and aeration confounds:
+
 ## Measurements
 
 - Instrument:
@@ -119,7 +131,8 @@
 - Sample preparation/dilution:
 - °Brix:
 - Coffee TDS, if available:
-- pH:
+- pH, measurement temperature, calibration buffers, and replicates:
+- Titratable acidity: sample mass, titrant concentration, endpoint, blank, units, calculation, and replicates:
 - Water activity:
 - Turbidity or visual notes:
 - Storage temperature:

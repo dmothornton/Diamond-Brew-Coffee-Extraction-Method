@@ -34,7 +34,7 @@ The water observation does not establish distilled water as generally superior. 
 
 Two overlapping explanations for the filtration behavior are a permeable grounds cake that intercepts microfines and a decanted feed enriched in particles that blind the cloth. Controlled precoating may distinguish their contributions, but changes in feed mass, settling, particle distribution, temperature, and pressing must also be accounted for.
 
-The first/second Orchard extraction samples submitted for external analysis have no reported analytical findings yet. They do not establish lower caffeine or a distinct chemical composition in the second extraction.
+The Orchard submissions have no reported analytical findings. The October 22 update reports sample loss and laboratory closure; analysis is blocked, with surviving sample identity, usability, and timing unresolved. The original first/second-extraction study design does not establish the identity of surviving samples. “Second batch” must not be read as “second extraction.” No caffeine or compositional conclusion follows.
 
 ## October 12–18 review additions
 
@@ -46,7 +46,20 @@ These are dated development reports summarized in the October 18 review. Raw rec
 | October 17: distilled dilution water was preferred to Delicate; fruit notes were prominent, but coffees contrasted less than anticipated | Preliminary sensory observation | Low-to-moderate; directionally consistent with earlier reports, without establishing a mineral mechanism or universal preference | P5b: one homogeneous concentrate, fixed dilution, matched temperature, documented distilled/Balance/Delicate waters, randomized codes |
 | October 15: connected chambers might reduce handling loss, assist filtration, and capture/return aromatic material | Engineering and sensory hypotheses | No apparatus performance or sensory benefit established | Separate P6 transfer/filtration tests from P9 condensate recovery and sensory comparisons |
 
-No new Orchard laboratory findings accompany this review; the analytical study remains pending. A plausible volatile-recovery mechanism is not evidence that condensation occurs effectively or improves the finished beverage.
+At the October 18 review cutoff, no new Orchard laboratory findings were available; the subsequent October 22 blocked-status correction above supersedes “pending.” A plausible volatile-recovery mechanism is not evidence that condensation occurs effectively or improves the finished beverage.
+
+## October 19–31 review additions
+
+These are development reports, not controlled validation. Private correspondence is summarized without collaborator-identifying details.
+
+| Report | Classification | Confidence and limits | Next test |
+| --- | --- | --- | --- |
+| October 22: sample loss and laboratory closure interrupted Orchard analytical work | Reported project-status correction | High confidence in the reported interruption; surviving sample identities, usability, and ETA unresolved | Confirm inventory, chain of custody, extraction identity, and analytical plan before resubmission |
+| October 30: steam-wand preparation was preferred to NanoFoamer Pro setting 3; estimated 2–3 mL condensate added to 40 mL concentrate | Preliminary unblinded observation | Moderate in reported preference; low in causal attribution. Thermal history, dilution, foam, and aeration differ | Compare matched-temperature and matched-water controls, with randomized blinded tasting |
+| Coffee Fest feedback reported during the October 26–November 1 review suggests sensory differences across coffees and roast choices | Uncontrolled field observation | Low for generalization; no standardized panel, matched strength, or raw scoring records supplied | Replicate across coffees with blinded, matched-strength evaluation |
+| October 30 freeze-thaw trial showed stratification and different fraction intensities but no demonstrated sensory improvement | Single exploratory observation | Low; unblinded, no TDS measurements, possible pouring mixing and palate effects | Follow [issue #5](https://github.com/dmothornton/Diamond-Brew-Coffee-Extraction-Method/issues/5) with unfrozen controls and replicated measurements |
+
+Steam treatment does not establish a heat-driven chemical improvement. Dilution, gas incorporation, temperature at tasting, volatile loss, or expectation may explain preference. Color gradients alone do not prove dissolved-solute fractionation. No observation here changes the canonical method or validates shelf life.
 
 ## Filtration scope
 
