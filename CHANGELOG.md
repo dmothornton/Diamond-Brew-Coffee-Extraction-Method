@@ -2,6 +2,15 @@
 
 All notable public documentation changes to the Diamond Brew method will be recorded here.
 
+## November 1, 2026 — October 19–31 research documentation
+
+- corrected Orchard analytical status to blocked after reported sample loss and laboratory closure; retained unresolved sample identity, usability, and timing without private collaborator details;
+- recorded the dated October 21 event formulation by volume, without making it a general method standard;
+- documented preliminary steam-treatment preference and uncontrolled festival feedback with causal and evidence limits;
+- cross-linked the unvalidated freeze-thaw trial in issue #5, including the absence of demonstrated sensory improvement;
+- added variable-sensitivity screening, acidity characterization, and controlled service-treatment research with supporting experiment fields;
+- retained canonical extraction parameters and existing food-safety limitations; packaging operations remain outside method claims.
+
 ## October 19, 2026 — October 12–18 research review
 
 - added connected-chamber transfer/filtration and P9 condensate-return hypotheses with separate controls and apparatus limitations;

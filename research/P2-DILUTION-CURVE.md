@@ -116,3 +116,7 @@ A single optimum should not be assumed across coffees. The useful commercial out
 The September 2026 protocol used 5 g concentrate plus 25 g water as a 1:5 concentrate-to-added-water example. It is a historical formulation, not the current festival standard.
 
 The October 18 review reported planning discussions around approximately 15 mL warm tasting samples and 30 mL retail vials. Those are dated operational context, not a finalized recipe or method specification. Verify the latest owner-approved event plan separately; record actual concentrate and added-water masses, final tasting volume, service temperature, and preparation time for any event-linked trial. Neither sample volume nor vial size establishes dilution.
+
+### October 21 event formulation — dated application context
+
+The owner-approved event recipe recorded on October 21 was **30 mL concentrate plus 200 mL hot water**: approximately **1:6.67 concentrate to added water by volume**. This is a historical event formulation, not a universal optimum, mass-based experimental ratio, or assertion of the current service recipe. Do not convert it to grams without measured masses or density data. Record actual preparation and service temperature for any replication.
