@@ -2,6 +2,14 @@
 
 All notable public documentation changes to the Diamond Brew method will be recorded here.
 
+## November 12, 2026 — Research controls and experimental applications
+
+- extended P2/P8 to separate extraction ratio, serving dilution, matched-strength sensory outcomes, and conforming output;
+- added planned/formula-derived versus measured inputs, stable batch/canner-cycle IDs, duplicate/correction references, and observation/report dates to the experiment template;
+- clarified in the method that freeze-assisted treatment remains unvalidated, with no sensory improvement demonstrated in the October 30 single-vial trial;
+- added a separate exploratory coffee-kanten and co-ferment application backlog without validated recipes or causal flavor claims;
+- retained the canonical extraction parameters and existing safety limitations; no component deprecated.
+
 ## November 1, 2026 — October 19–31 research documentation
 
 - corrected Orchard analytical status to blocked after reported sample loss and laboratory closure; retained unresolved sample identity, usability, and timing without private collaborator details;

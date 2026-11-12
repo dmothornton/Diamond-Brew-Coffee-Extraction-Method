@@ -25,7 +25,7 @@ This is a development research program, not a substitute for an accredited labor
 | P5 | How do extraction-water and dilution-water compositions separately affect sensory expression? | Moderate-to-high | High | High |
 | P6 | What does each clarification stage remove, and what does it contribute sensorially? | High | Moderate | High |
 | P7 | What changes during refrigerated rest? | Moderate | High | Moderate-to-high |
-| P8 | How do roast development and brew ratio interact? | Moderate | Moderate | High |
+| P8 | How do roast development and extraction ratio interact, separately from serving dilution? | Moderate | Moderate | High |
 | P9 | What is the independent contribution of pressure or closed-vessel volatile capture? | Very high | Low with current equipment | Potentially high |
 | P10 | What chemical and microbial controls determine safe shelf life? | Essential for packaged commercialization | Requires qualified outside resources | Essential |
 
@@ -161,6 +161,16 @@ Split one homogeneous filtered batch into identical containers and evaluate at d
 
 Include both undisturbed and standardized-remixed samples where practical. This helps distinguish settling from irreversible chemical or colloidal change. It does not determine microbial safety.
 
+### P8 — Roast development and extraction ratio
+
+Use the [P2 extraction-ratio extension](P2-DILUTION-CURVE.md#extraction-ratio-versus-serving-dilution) to distinguish extraction formulation from final beverage strength. First compare ratios within one coffee/roast batch; only then extend across documented roast treatments. Comparing unrelated coffees cannot isolate roast development.
+
+Competing models include a change mainly in concentrate strength; a difference in total recovered solids or clarification loss; a composition/sensory difference persisting at matched final strength; and an apparent effect caused by fill geometry, thermal history, water chemistry, or mislabeled/duplicate records. Record actual weighed inputs, calibrated TDS, recovered and conforming output, cycle IDs, and blinded sensory results. Compare both common final strength and separately optimized serving formulations, without treating them as the same endpoint.
+
+A planned/formula-derived ratio is not a measured ratio. A ratio appearing in a development log is not an owner decision adopting it as the standard. Reconcile discrepant inputs and possible duplicate batches before calculating yield or asserting a process improvement. Preserve original and corrected values with their dates and references.
+
+**Decision:** Determine whether extraction-ratio changes offer repeatable recovery or sensory benefits within a tested coffee/roast range. Retain the existing 1:3 and 1:4 starting regions while this remains unresolved; do not infer a new universal ratio from operational records.
+
 ### Freeze-thaw fractionation — low-priority follow-up
 
 See [issue #5](https://github.com/dmothornton/Diamond-Brew-Coffee-Extraction-Method/issues/5) for the October 30 single-vial observation and proposed controls. No sensory improvement over unfrozen concentrate was demonstrated. Compare frozen/thawed and unfrozen aliquots from one batch, record full-thaw/rest history and fraction masses, and measure calibrated TDS, turbidity, sediment, and recovery. Use blinded matched-strength tasting. Separate dissolved-solute redistribution from particle settling or aggregation; retain negative results.
@@ -224,6 +234,10 @@ Quality-life observations and microbial safety must remain separate. Shelf-stabi
 Post-fill thermal processing is an exploratory preservation direction, separate from defining extraction. Discuss product, packaging, equipment, heat penetration, and controls with qualified specialists before selecting a protocol or incorporating it into commercial production.
 
 Evaluate microbial reduction, sensory change, and possible acceleration of refrigerated-resting changes as separate hypotheses with separate measurements. Prior brewing at nominally 121 °C for 30 minutes does not validate reheating filtered concentrate in sealed bottles. Vessel temperature and elapsed hold do not establish cold-spot product exposure, closure integrity, shelf stability, or commercial sterility. See [Safety](../docs/SAFETY.md).
+
+## Optional beverage applications
+
+See the separate [experimental application backlog](APPLICATION-EXPERIMENTS.md) for coffee-kanten and co-ferment evaluation. These are lower-priority formulation/evaluation ideas, not validated recipes or changes to the extraction method. Keep application preference, process evidence, and safety validation separate.
 
 ## Evidence thresholds
 

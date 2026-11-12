@@ -3,7 +3,13 @@
 ## Identity
 
 - Experiment ID:
-- Date:
+- Observation/experiment date and time with timezone:
+- Report/entry date and time with timezone:
+- Stable parent batch ID (independent of spreadsheet row position):
+- Canner/pressure-processing cycle ID and vessel/sample IDs within that cycle:
+- Record status (planned, completed, corrected, possible duplicate, excluded):
+- Source record reference/version and evidence cutoff:
+- Duplicate/correction reference, reason, and superseded values (preserve original):
 - Operator:
 - Location:
 - Research question:
@@ -45,12 +51,26 @@
 - Conductivity and measurement temperature, if available:
 - Instrument/calibration or recipe reference:
 
+## Input and output provenance
+
+Keep planned values and observations in separate fields. Formula-derived targets are not weighed inputs, and a copied row is not evidence of a new batch. Mark missing measurements unknown; do not fill them from targets without labeling the substitution.
+
+- Planned coffee mass, extraction-water mass, and ratio (coffee:added extraction water by mass):
+- Formula-derived inputs/targets and formula/source reference:
+- Actual weighed coffee and extraction-water masses, units, instrument, and uncertainty:
+- Actual extraction ratio calculated from weighed inputs:
+- Deviations from plan and explicit owner decision, if any:
+- Measured recovered concentrate mass; volume, temperature, and density basis if used:
+- Conforming usable output after clarification/sampling/losses, with predefined acceptance criteria:
+- Reconciliation of inputs, outputs, retained material, added water, and unexplained discrepancy:
+- Duplicate/correction review and unique-batch inclusion/exclusion decision:
+
 ## Process
 
 - Vessel:
 - Product container:
 - Batch geometry/fill level:
-- Coffee-to-water ratio:
+- Extraction ratio (planned and actual; coffee:added extraction water by mass):
 - Target temperature:
 - Observed temperature:
 - Pressure:
@@ -130,7 +150,10 @@
 - Calibration:
 - Sample preparation/dilution:
 - °Brix:
-- Coffee TDS, if available:
+- Coffee TDS, if available, with calibration standard, temperature, preparation, dilution factor, and replicates:
+- Apparent recovered dissolved solids (measured concentrate mass × TDS mass fraction), calculation and uncertainty:
+- Apparent recovered-solids yield per actual dry-coffee mass, exclusions, and method limits:
+- Conforming output at common serving strength, measured or estimated basis and uncertainty:
 - pH, measurement temperature, calibration buffers, and replicates:
 - Titratable acidity: sample mass, titrant concentration, endpoint, blank, units, calculation, and replicates:
 - Water activity:
@@ -162,6 +185,8 @@
 - Blind/randomized sample codes:
 - Number of tasters:
 - Reference sample:
+- Extraction ratio(s), final-strength matching procedure, and residual mismatches:
+- Independently prepared extraction batches versus aliquots from the same batch:
 - Attributes assessed:
 - Preference question:
 
