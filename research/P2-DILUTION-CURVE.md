@@ -43,6 +43,22 @@ Use separate comparisons:
 
 Record concentrate mass and, when used in service, volume with measurement temperature and density conversion basis. Do not assume 30 mL equals 30 g. Evaluate coffees separately and repeat blinded comparisons before prescribing a dose or dilution.
 
+## Extraction ratio versus serving dilution
+
+Extraction ratio describes dry coffee to water added during brewing; serving dilution describes recovered concentrate to water added afterward. Label both explicitly. A change from, for example, 1:3.5 to 1:5 extraction is not the same treatment as adding more service water to one concentrate. A logged ratio or formula-derived target does not establish the actual weighed inputs or an adopted method change.
+
+Use this extension with P8 in the [research roadmap](RESEARCH-ROADMAP.md):
+
+1. Predefine extraction-ratio levels for one coffee lot, using actual weighed coffee and extraction-water masses. Start with equal dry-coffee mass; record unavoidable fill/headspace and thermal-history differences rather than assuming the apparatus remains equivalent.
+2. Replicate extraction conditions across independent canner cycles/production days; randomize treatment allocation where feasible. Multiple aliquots of one brew are sensory repeats, not independent extraction replicates.
+3. Recover and weigh concentrate using the same clarification procedure. Record losses, conforming usable output, and suitable calibrated TDS with sample preparation and measurement uncertainty. Formula targets or volume alone cannot establish extracted-solids yield.
+4. Map a serving-dilution curve within each extraction treatment. Separately compare treatments at a common measured final TDS achievable by dilution, with the same dilution water, service temperature, and tasting aliquot size. Keep any residual water-chemistry differences explicit.
+5. Use blinded, randomized tasting to compare preference and attributes at matched strength, then compare each treatment's separately selected preferred formulation. These answer different questions. Record the actual concentrate and added-water masses in both comparisons.
+
+Estimate apparent recovered dissolved solids as recovered concentrate mass multiplied by appropriately measured TDS mass fraction, and normalize to actual dry-coffee mass. This is a method-dependent recovered-solids estimate, not complete extraction from all retained liquid or a direct chemical-composition measurement. Record the mass-balance boundary and limitations from minerals, colloids, and instrument suitability. Keep usable concentrate recovery, apparent recovered-solids yield, and conforming servings at a common strength separate; more liquid does not establish better extraction or sensory quality.
+
+If reliable TDS matching is unavailable, report the unmatched comparison as exploratory. Do not claim an extraction-ratio advantage from a comparison confounded by final strength. Reject or flag unresolved duplicate/corrected batch records before aggregating output; use stable batch and cycle IDs in the [experiment template](../experiments/EXPERIMENT-TEMPLATE.md).
+
 ## Fine-interval follow-up
 
 After broad screening, predefine a narrower series around a promising region—for example 1 part concentrate plus 4.75, 5.00, and 5.25 parts added water by mass. Small differences have been reported in development, but their repeatability and perceptual magnitude remain unestablished. Keep dilution-water composition fixed; test water chemistry separately under P5b.

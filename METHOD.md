@@ -1,7 +1,7 @@
 # Current Public Method Envelope
 
 **Status:** Developmental  
-**Last revised:** October 12, 2026
+**Last revised:** November 12, 2026
 
 This document defines the present open method envelope for Diamond Brew. It is not a validated food-manufacturing process or a universal recipe. Published experiments should provide enough detail for independent repetition.
 
@@ -65,9 +65,9 @@ Current clarification may include:
 
 1. coarse filtration through food-suitable cloth;
 2. secondary paper filtration where useful for residual fines and sediment;
-3. optional freeze-assisted clarification or separation.
+3. experimental freeze-assisted clarification or separation, only in a documented comparison.
 
-The aim is to remove objectionable particles while retaining selected oils and colloidal material where they contribute positively to texture and flavor. “Freeze clarification” should not be assumed to mean freeze concentration.
+The aim is to remove objectionable particles while retaining selected oils and colloidal material where they contribute positively to texture and flavor. “Freeze clarification” should not be assumed to mean freeze concentration. Freeze-assisted treatment is an unvalidated research candidate, not an established clarification recommendation. The October 30 single-vial trial demonstrated no sensory improvement over unfrozen concentrate; see [issue #5](https://github.com/dmothornton/Diamond-Brew-Coffee-Extraction-Method/issues/5) for observations, competing explanations, and proposed controls. This result neither validates the step nor rules out benefits under other tested conditions.
 
 Paper filtration was introduced as a practical clarification step after muslin; its sensory benefit and necessity remain unestablished. The sequence is developmental rather than mandatory. See [Development History](docs/DEVELOPMENT-HISTORY.md) and [P6 — Filtration and Scaling](research/P6-FILTRATION-AND-SCALING.md) for provenance and candidate alternatives.
 
